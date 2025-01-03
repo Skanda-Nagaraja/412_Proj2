@@ -2,7 +2,7 @@
 #include <iostream>
 #include <vector>
 #include "RequestGenerator.h"
- 
+
 class LoadBalancer {
     private:
         //define a queue 
@@ -12,11 +12,10 @@ class LoadBalancer {
         unsigned int maxIters;
         
     public:
-        void push (Request Request);
-        //constructo to initialize the queue 
-        LoadBalancer();
         LoadBalancer(int maxIters);
-        
+        void push (Request Request);
+        void pop();
+        void scale();
         //destructor to delete the queue
         ~LoadBalancer();
 
