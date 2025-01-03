@@ -30,3 +30,18 @@ void LoadBalancer::scale() {
         servers.pop_back();
     }
 }
+
+
+void LoadBalancer::LoadBalanceTick() {
+    if (iterCount == maxIters) {
+        scale();
+        iterCount = 0;
+    } 
+    for (int i = 0; i < servers.size(); i++) {
+        if (servers[i]->isFree() && !q.empty()) {
+            servers[i]->processRequest(q.front());
+            pop();
+        }
+    }
+    iterCount++;
+}
