@@ -18,7 +18,7 @@
     class RequestGenerator {
         public:
             RequestGenerator();
-            Request generateRequest();
+            Request* generateRequest();
     };
 
 
