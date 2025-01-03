@@ -4,21 +4,27 @@
 
 
 
-int main {
-    int initialCapacityS = 0;
-    int initialCapacityP = 0;
-    int clockCycle = 0;
+int main() {
+    int initialCapacity = 10000;
+    int numCycles = 10000;
     RequestGenerator rg;
     LoadBalancer lbS;
     LoadBalancer lbP;
     
     WebServer ws;
-    for (int i = 0; i < 100; i++) {
-        Request r = rg.generateRequest();
-        lb.push(r);
+    for (int i = 0; i < initialCapacity; i++) {
+        Request * r = rg.generateRequest();
+        if (r->type == S) {
+            lbS.push(r);
+        } else {
+            lbP.push(r);
+        }
     }
-    while (!lb.empty()) {
-        ws.tick();
+    for (int i = 0; i < numCycles; i++) {
+        std::cout << "ENTERING CYCLE " << i << std::endl;
+        lbS.LoadBalanceTick();
+        lbP.LoadBalanceTick();
+        std::cout << std::endl;
     }
     return 0;
 

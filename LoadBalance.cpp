@@ -1,12 +1,12 @@
 #include "LoadBalancer.h"
 
-LoadBalancer::LoadBalancer(int maxIters) {
+LoadBalancer::LoadBalancer() {
     iterCount = 0;
-    this->maxIters = maxIters;
 }
 
 LoadBalancer::~LoadBalancer() {
     while (!q.empty()) {
+        delete q.front();
         q.pop();
     }
 }
@@ -33,14 +33,14 @@ void LoadBalancer::scale() {
 
 
 void LoadBalancer::LoadBalanceTick() {
-    if (iterCount == maxIters) {
-        scale();
-        iterCount = 0;
-    } 
+    scale();
     for (int i = 0; i < servers.size(); i++) {
-        if (servers[i]->isFree() && !q.empty()) {
+        if (!q.empty() && servers[i]->isFree()) {
             servers[i]->processRequest(q.front());
             pop();
+        } else if(!servers[i]->isFree()) {
+            std::cout << "Server " << i << " is busy" << std::endl;
+            servers[i]->tick();
         }
     }
     iterCount++;

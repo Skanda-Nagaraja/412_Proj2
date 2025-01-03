@@ -13,7 +13,7 @@ class LoadBalancer {
         unsigned int maxIters;
         
     public:
-        LoadBalancer(int maxIters);
+        LoadBalancer();
         void push (Request* Request);
         void pop();
         void scale();
