@@ -8,9 +8,7 @@
 
     #define S true
     #define P false
-    struct Request {
-        private:
-            //define a queue 
+    struct Request {            //define a queue 
             std::string ipIn;
             std::string ipOut;
             int time;

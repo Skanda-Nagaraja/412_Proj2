@@ -2,20 +2,22 @@
 #include <iostream>
 #include <vector>
 #include "RequestGenerator.h"
+#include "WebServer.h"
 
 class LoadBalancer {
     private:
         //define a queue 
-        std::queue<int> q;
-        std::vector<int> servers;
+        std::queue<Request*> q;
+        std::vector<WebServer*> servers;
         unsigned int iterCount;
         unsigned int maxIters;
         
     public:
         LoadBalancer(int maxIters);
-        void push (Request Request);
+        void push (Request* Request);
         void pop();
         void scale();
+        void LoadBalanceTick();
         //destructor to delete the queue
         ~LoadBalancer();
 

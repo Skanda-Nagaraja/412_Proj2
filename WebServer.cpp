@@ -2,8 +2,8 @@
 
 WebServer::WebServer() : timeRemaining(0) {}
 
-void WebServer::processRequest(Request request) {
-    timeRemaining = request.time;
+void WebServer::processRequest(Request* request) {
+    timeRemaining = request->time;
 }
 
 bool WebServer::isFree() {
