@@ -7,7 +7,7 @@ RequestGenerator::RequestGenerator() {
     srand(time(NULL));
 }
 
-string genIp () {
+string RequestGenerator::genIp() {
     string ip = "";
     for (int i = 0; i < 4; i++) {
         ip += to_string(rand() % 256);
@@ -17,6 +17,8 @@ string genIp () {
     }
     return ip;
 }
+
+
 Request* RequestGenerator::generateRequest() {
     Request* r = new Request();
     r->ipIn = genIp();

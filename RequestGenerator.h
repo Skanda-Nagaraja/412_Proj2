@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include <vector>
+using namespace std;
 
 #ifndef REQUESTGENERATOR_H
 #define REQUESTGENERATOR_H
@@ -19,6 +20,7 @@
         public:
             RequestGenerator();
             Request* generateRequest();
+            string genIp();
     };
 
 
