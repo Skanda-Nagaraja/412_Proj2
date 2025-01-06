@@ -18,7 +18,7 @@ string RequestGenerator::genIp() {
     return ip;
 }
 
-Request* RequestGenerator::generateRequestS(std::string ipIn, std::string ipOut, int time) {
+Request* RequestGenerator::generateRequestS() {
     Request* r = new Request();
     r->ipIn = genIp();
     r->ipOut = genIp();
@@ -28,7 +28,7 @@ Request* RequestGenerator::generateRequestS(std::string ipIn, std::string ipOut,
 }
 
 // Manually generate a request of type P
-Request* RequestGenerator::generateRequestP(std::string ipIn, std::string ipOut, int time) {
+Request* RequestGenerator::generateRequestP() {
     Request* r = new Request();
     r->ipIn = genIp();
     r->ipOut = genIp();
