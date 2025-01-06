@@ -4,11 +4,9 @@
 #include <iostream>
 #include <sstream>
 
-
-
 int main() {
     int initial_servers = 0;
-    int clock_cycles = 0;
+    int num_cycles = 0;
     std::string input;
 
     std::cout << "Enter initial number of servers: ";
@@ -17,25 +15,21 @@ int main() {
 
     std::cout << "Enter number of clock cycles: ";
     std::getline(std::cin, input);
-    std::stringstream(input) >> clock_cycles;
+    std::stringstream(input) >> num_cycles;
 
-    std::cout << "Simulation started with " << initial_servers << " servers and " << clock_cycles << " clock cycles.\n";
-    int initialCapacity = 10000;
-    int numCycles = 10000;
+    std::cout << "Simulation started with " << initial_servers << " servers and " << num_cycles << " clock cycles.\n";
     RequestGenerator rg;
     LoadBalancer lbS;
     LoadBalancer lbP;
-    
+
     WebServer ws;
-    for (int i = 0; i < initialCapacity; i++) {
-        Request * r = rg.generateRequest();
-        if (r->type == S) {
-            lbS.push(r);
-        } else {
-            lbP.push(r);
-        }
+    for (int i = 0; i < initial_servers * 20; i++) {
+        Request * r = rg.generateRequestS();
+        lbS.push(r);
+        r - rg.generateRequestP();
+        lbP.push(r);
     }
-    for (int i = 0; i < numCycles; i++) {
+    for (int i = 0; i < num_cycles; i++) {
         std::cout << "ENTERING CYCLE " << i << std::endl;
         lbS.LoadBalanceTick();
         lbP.LoadBalanceTick();
