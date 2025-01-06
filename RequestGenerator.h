@@ -20,6 +20,7 @@ using namespace std;
         public:
             RequestGenerator();
             Request* generateRequest();
+        private:
             string genIp();
     };
 
