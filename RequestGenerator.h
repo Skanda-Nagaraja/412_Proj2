@@ -21,9 +21,9 @@ using namespace std;
     class RequestGenerator {
         public:
             RequestGenerator();
-            Request* generateRequest();
-            Request* generateRequestS();
-            Request* generateRequestP();
+            Request generateRequest();
+            Request generateRequestS();
+            Request generateRequestP();
         private:
             string genIp();
     };

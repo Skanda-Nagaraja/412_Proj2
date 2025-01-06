@@ -18,37 +18,37 @@ string RequestGenerator::genIp() {
     return ip;
 }
 
-Request* RequestGenerator::generateRequestS() {
-    Request* r = new Request();
-    r->ipIn = genIp();
-    r->ipOut = genIp();
-    r->time = r->time = (rand() % 1000) + 1;;
-    r->type = S;
+Request RequestGenerator::generateRequestS() {
+    Request r =  Request();
+    r.ipIn = genIp();
+    r.ipOut = genIp();
+    r.time = r.time = (rand() % 1000) + 1;
+    r.type = S;
     return r;
 }
 
 // Manually generate a request of type P
-Request* RequestGenerator::generateRequestP() {
-    Request* r = new Request();
-    r->ipIn = genIp();
-    r->ipOut = genIp();
-    r->time = r->time = (rand() % 1000) + 1;;
-    r->type = P;
+Request RequestGenerator::generateRequestP() {
+   Request r =  Request();
+    r.ipIn = genIp();
+    r.ipOut = genIp();
+    r.time = r.time = (rand() % 1000) + 1;
+    r.type = P;
     return r;
 }
 
 
-Request* RequestGenerator::generateRequest() {
-    Request* r = new Request();
-    r->ipIn = genIp();
-    r->ipOut = genIp();
+Request RequestGenerator::generateRequest() {
+    Request r =  Request();
+    r.ipIn = genIp();
+    r.ipOut = genIp();
 
-    r->time = (rand() % 1000) + 1;
+    r.time = (rand() % 1000) + 1;
 
     if(rand() % 2 == 0) {
-        r->type = S;
+        r.type = S;
     } else {
-        r->type = P;
+        r.type = P;
     }
     return r;
 }

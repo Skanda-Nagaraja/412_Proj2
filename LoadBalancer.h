@@ -11,13 +11,14 @@
 class LoadBalancer {
     private:
         //define a queue 
+        string name;
         std::queue<Request*> q;
         std::vector<WebServer*> servers;
         unsigned int iterCount;
         unsigned int maxIters;
         
     public:
-        LoadBalancer();
+        LoadBalancer(string _name);
         void push (Request* Request);
         void pop();
         void scale();

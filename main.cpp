@@ -19,22 +19,25 @@ int main() {
 
     std::cout << "Simulation started with " << initial_servers << " servers and " << num_cycles << " clock cycles.\n";
     RequestGenerator rg;
-    LoadBalancer lbS;
-    LoadBalancer lbP;
+    LoadBalancer lbS("S");
+    LoadBalancer lbP("P");
 
     WebServer ws;
     for (int i = 0; i < initial_servers * 20; i++) {
-        Request * r = rg.generateRequestS();
-        lbS.push(r);
-        r - rg.generateRequestP();
-        lbP.push(r);
+        Request r = rg.generateRequestS();
+        lbS.push(&r);
+        r = rg.generateRequestP();
+        lbP.push(&r);
     }
     for (int i = 0; i < num_cycles; i++) {
-        std::cout << "ENTERING CYCLE " << i << std::endl;
+        std::cout << std::endl << "ENTERING CYCLE:  " << i << std::endl;
+        
         lbS.LoadBalanceTick();
         lbP.LoadBalanceTick();
         std::cout << std::endl;
     }
+
+    
     return 0;
 
 }

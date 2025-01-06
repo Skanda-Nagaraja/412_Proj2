@@ -6,10 +6,11 @@
 class WebServer {
     private:
         unsigned int timeRemaining;
+        Request* request;
     public:
         WebServer();
         void processRequest(Request* request);
         bool isFree();
-        void tick();
+        int tick();
 };
 #endif //WEB_SERVER_H

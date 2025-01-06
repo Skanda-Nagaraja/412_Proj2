@@ -1,12 +1,14 @@
 #include "LoadBalancer.h"
 
-LoadBalancer::LoadBalancer() {
+LoadBalancer::LoadBalancer(string _name) {
     iterCount = 0;
+    name = _name;
+
 }
 
 LoadBalancer::~LoadBalancer() {
     while (!q.empty()) {
-        delete q.front();
+       // delete q.front();
         q.pop();
     }
 }
@@ -20,14 +22,33 @@ void LoadBalancer::pop() {
 }
 
 void LoadBalancer::scale() {
-    if (servers.size() < q.size()/20) {
+    int totalServ = servers.size();
+    while (servers.size() < q.size()/20) {
        //scale up
         WebServer* ws = new WebServer();
         servers.push_back(ws);
-    } else if (servers.size() > q.size()/20) {
+    } 
+    while (servers.size() > q.size()/20) {
         //scale down
-        WebServer* ws = servers.back();
-        servers.pop_back();
+        bool found = false;
+        for (int i = 0; i < servers.size(); i++) {
+            if (servers[i]->isFree()) {
+                delete servers[i];
+                servers.erase(servers.begin() + i);
+                found = true;
+                break;
+            }
+        }
+        if (!found) {
+            cout << "All servers busy, cannot scale down" << endl;
+            break;
+        }
+
+    }
+    if(totalServ != servers.size()){
+        cout << "Load Balancer Name: " << name << " scaling from " << totalServ << " to " << servers.size() << " servers" << endl;
+    } else {
+        cout << "Load Balancer Name: " << name << " still has: " << servers.size() << endl;
     }
 }
 
@@ -39,8 +60,9 @@ void LoadBalancer::LoadBalanceTick() {
             servers[i]->processRequest(q.front());
             pop();
         } else if(!servers[i]->isFree()) {
-            std::cout << "Server " << i << " is busy" << std::endl;
-            servers[i]->tick();
+            // std::cout << "Server " << i << " is busy" << std::endl;
+            int timeRemaining = servers[i]->tick();
+            cout << "Server " << i << " has " << timeRemaining << " cycles remaining" << endl;
         }
     }
     iterCount++;
