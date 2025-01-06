@@ -22,7 +22,7 @@ Request RequestGenerator::generateRequestS() {
     Request r =  Request();
     r.ipIn = genIp();
     r.ipOut = genIp();
-    r.time = r.time = (rand() % 1000) + 1;
+    r.time = (rand() % 1000) + 1;
     r.type = S;
     return r;
 }
