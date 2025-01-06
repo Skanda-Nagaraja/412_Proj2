@@ -24,10 +24,10 @@ int main() {
 
     WebServer ws;
     for (int i = 0; i < initial_servers * 20; i++) {
-        Request r = rg.generateRequestS();
-        lbS.push(&r);
-        r = rg.generateRequestP();
-        lbP.push(&r);
+        Request* r = rg.generateRequestS();
+        lbS.push(r);
+        r - rg.generateRequestP();
+        lbP.push(r);
     }
     for (int i = 0; i < num_cycles; i++) {
         std::cout << std::endl << "ENTERING CYCLE:  " << i << std::endl;
