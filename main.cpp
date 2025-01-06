@@ -8,6 +8,7 @@ int main() {
     int initial_servers = 0;
     int num_cycles = 0;
     std::string input;
+    srand(static_cast<unsigned int>(time(NULL)));
 
     std::cout << "Enter initial number of servers: ";
     std::getline(std::cin, input);
@@ -24,9 +25,9 @@ int main() {
 
     WebServer ws;
     for (int i = 0; i < initial_servers * 20; i++) {
-        Request* r = rg.generateRequestS();
+        Request r = rg.generateRequestS();
         lbS.push(r);
-        r - rg.generateRequestP();
+        r = rg.generateRequestP();
         lbP.push(r);
     }
     for (int i = 0; i < num_cycles; i++) {
