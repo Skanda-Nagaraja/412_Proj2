@@ -8,7 +8,6 @@ LoadBalancer::LoadBalancer(string _name) {
 
 LoadBalancer::~LoadBalancer() {
     while (!q.empty()) {
-       // delete q.front();
         q.pop();
     }
 }
