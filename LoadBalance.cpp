@@ -6,7 +6,6 @@ LoadBalancer::LoadBalancer() {
 
 LoadBalancer::~LoadBalancer() {
     while (!q.empty()) {
-        delete q.front();
         q.pop();
     }
 }
