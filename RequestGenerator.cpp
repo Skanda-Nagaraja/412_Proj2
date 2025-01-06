@@ -4,7 +4,7 @@
 using namespace std;
 
 RequestGenerator::RequestGenerator() {
-    srand(time(NULL));
+    srand(static_cast<unsigned int>(time(NULL)));
 }
 
 string RequestGenerator::genIp() {
