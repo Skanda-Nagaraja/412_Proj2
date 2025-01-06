@@ -22,6 +22,8 @@ using namespace std;
         public:
             RequestGenerator();
             Request* generateRequest();
+            Request* generateRequestS(std::string ipIn, std::string ipOut, int time);
+            Request* generateRequestP(std::string ipIn, std::string ipOut, int time);
         private:
             string genIp();
     };
