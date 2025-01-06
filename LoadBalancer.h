@@ -1,3 +1,7 @@
+#ifndef LOADBALANCER_H
+#define LOADBALANCER_H
+
+
 #include <queue>  
 #include <iostream>
 #include <vector>
@@ -23,3 +27,4 @@ class LoadBalancer {
 
 
 };
+#endif //WEB_SERVER_H

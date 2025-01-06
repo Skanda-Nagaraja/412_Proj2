@@ -31,6 +31,5 @@ Request* RequestGenerator::generateRequest() {
     } else {
         r->type = P;
     }
-    
     return r;
 }

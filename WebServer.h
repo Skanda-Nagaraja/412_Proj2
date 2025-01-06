@@ -1,3 +1,6 @@
+
+#ifndef WEB_SERVER_H
+#define WEB_SERVER_H
 #include "RequestGenerator.h"
 
 class WebServer {
@@ -9,3 +12,4 @@ class WebServer {
         bool isFree();
         void tick();
 };
+#endif //WEB_SERVER_H
