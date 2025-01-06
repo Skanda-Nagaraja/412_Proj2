@@ -12,27 +12,32 @@ LoadBalancer::~LoadBalancer() {
     }
 }
 
-void LoadBalancer::push(Request* request) {
+void LoadBalancer::push(const Request& request) {
     q.push(request);
 }
 
 void LoadBalancer::pop() {
-    q.pop();
+    if(!q.empty()) {
+        q.pop();
+    }
 }
 
 void LoadBalancer::scale() {
     int totalServ = servers.size();
-    while (servers.size() < q.size()/20) {
+    int required = q.size()/20;
+    if(required == 0){
+        required = 1;
+    }
+    while (servers.size() < required) {
        //scale up
-        WebServer* ws = new WebServer();
+        WebServer ws =  WebServer();
         servers.push_back(ws);
     } 
-    while (servers.size() > q.size()/20) {
+    while (servers.size() > required && servers.size()>1) {
         //scale down
         bool found = false;
         for (int i = 0; i < servers.size(); i++) {
-            if (servers[i]->isFree()) {
-                delete servers[i];
+            if (servers[i].isFree()) {
                 servers.erase(servers.begin() + i);
                 found = true;
                 break;
@@ -55,12 +60,12 @@ void LoadBalancer::scale() {
 void LoadBalancer::LoadBalanceTick() {
     scale();
     for (int i = 0; i < servers.size(); i++) {
-        if (!q.empty() && servers[i]->isFree()) {
-            servers[i]->processRequest(q.front());
+        if (!q.empty() && servers[i].isFree()) {
+            servers[i].processRequest(q.front());
             pop();
-        } else if(!servers[i]->isFree()) {
+        } else if(!servers[i].isFree()) {
             // std::cout << "Server " << i << " is busy" << std::endl;
-            int timeRemaining = servers[i]->tick();
+            int timeRemaining = servers[i].tick();
             cout << "Server " << i << " has " << timeRemaining << " cycles remaining" << endl;
         }
     }

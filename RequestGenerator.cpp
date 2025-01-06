@@ -22,13 +22,14 @@ Request RequestGenerator::generateRequestS() {
     Request r =  Request();
     r.ipIn = genIp();
     r.ipOut = genIp();
-    r.time = (rand() % 1000) + 1;
+    r.time = (rand() % 1000) + 1;;
     r.type = S;
     return r;
 }
 
 // Manually generate a request of type P
 Request RequestGenerator::generateRequestP() {
+    Request r =  Request();
     Request r =  Request();
     r.ipIn = genIp();
     r.ipOut = genIp();
