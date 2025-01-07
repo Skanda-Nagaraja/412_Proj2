@@ -7,6 +7,8 @@
 #include "WebServer.h"
 #include <iostream>
 #include <sstream>
+#include <cstdlib>
+#include <ctime>
 
 int main() {
     int initial_servers = 0;
@@ -50,6 +52,14 @@ int main() {
      */
     for (int i = 0; i < num_cycles; i++) {
         std::cout << std::endl << "ENTERING CYCLE:  " << i << std::endl;
+        if(rand() % 2 == 0){
+            Request r = rg.generateRequestS();
+            lbS.push(r);
+        }
+        if(rand() % 2 == 0){
+            Request r = rg.generateRequestP();
+            lbP.push(r);
+        }
         
         lbS.LoadBalanceTick();
         lbP.LoadBalanceTick();

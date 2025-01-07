@@ -54,10 +54,12 @@ Request RequestGenerator::generateRequestS() {
 // Manually generate a request of type P
 Request RequestGenerator::generateRequestP() {
     Request r =  Request();
+    Request r =  Request();
     r.ipIn = genIp();
     r.ipOut = genIp();
-    r.time =  (rand() % 1000) + 1;;
+    r.time = (rand() % 1000) + 1;
     r.type = P;
+    cout << "P Request generated: " << r.ipIn << " " << r.ipOut << " " << r.time << " " << r.type << endl;
     return r;
 }
 
@@ -80,5 +82,6 @@ Request RequestGenerator::generateRequest() {
     } else {
         r.type = P;
     }
+    cout << "S Request generated: " << r.ipIn << " " << r.ipOut << " " << r.time << " " << r.type << endl;
     return r;
 }
