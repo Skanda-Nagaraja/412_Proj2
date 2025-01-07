@@ -1,10 +1,20 @@
+/**
+ * @file LoadBalancer.cpp
+ * @brief Implementation of the LoadBalancer class.
+ */
+
 #include "LoadBalancer.h"
 
+/**
+ * @brief Constructs a LoadBalancer with the given name and initializes iterCount.
+ * @param _name Name of the LoadBalancer.
+ */
 LoadBalancer::LoadBalancer(string _name) {
     iterCount = 0;
     name = _name;
 
 }
+
 
 LoadBalancer::~LoadBalancer() {
     while (!q.empty()) {
@@ -12,16 +22,28 @@ LoadBalancer::~LoadBalancer() {
     }
 }
 
+/**
+ * @brief Adds a Request to the LoadBalancer's queue.
+ * @param request The Request to be added.
+ */
+
 void LoadBalancer::push(const Request& request) {
     q.push(request);
 }
 
+/**
+ * @brief Removes the front Request from the queue.
+ */
 void LoadBalancer::pop() {
     if(!q.empty()) {
         q.pop();
     }
 }
 
+/**
+ * @brief Adjusts the number of WebServers based on the current load.
+ * Scales up by adding servers if needed and scales down as well.
+ */
 void LoadBalancer::scale() {
     int totalServ = servers.size();
     int required = q.size()/20;
@@ -56,7 +78,10 @@ void LoadBalancer::scale() {
     }
 }
 
-
+/**
+ * @brief Processes one cycle of load balancing.
+ *  scaling and identifies  Requests for available WebServers.
+ */
 void LoadBalancer::LoadBalanceTick() {
     scale();
     for (int i = 0; i < servers.size(); i++) {

@@ -1,3 +1,7 @@
+/**
+ * @file main.cpp
+ * @brief high level program abstraction
+ */
 #include "RequestGenerator.h"
 #include "LoadBalancer.h"
 #include "WebServer.h"
@@ -9,6 +13,10 @@ int main() {
     int num_cycles = 0;
     std::string input;
     srand(static_cast<unsigned int>(time(NULL)));
+
+    /**
+     * @brief User prompting. 
+     */
 
     std::cout << "Enter initial number of servers: ";
     std::getline(std::cin, input);
@@ -23,6 +31,9 @@ int main() {
     LoadBalancer lbS("S");
     LoadBalancer lbP("P");
 
+     /**
+     * @brief Seeds LoadBalancers  initial batch of requests.
+     */
     WebServer ws;
     for (int i = 0; i < initial_servers * 20; i++) {
         Request r = rg.generateRequestS();
@@ -30,6 +41,13 @@ int main() {
         r = rg.generateRequestP();
         lbP.push(r);
     }
+       
+   
+
+     /**
+     * @brief Simulates the specified number of clock cycles.
+     * Each cycle processes load balancing ticks for both LoadBalancers.
+     */
     for (int i = 0; i < num_cycles; i++) {
         std::cout << std::endl << "ENTERING CYCLE:  " << i << std::endl;
         

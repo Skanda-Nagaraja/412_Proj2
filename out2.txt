@@ -1,0 +1,501 @@
+Enter initial number of servers: Enter number of clock cycles: Simulation started with 10 servers and 100 clock cycles.
+
+ENTERING CYCLE:  0
+Load Balancer Name: S scaling from 0 to 10 servers
+Load Balancer Name: P scaling from 0 to 10 servers
+
+
+ENTERING CYCLE:  1
+Load Balancer Name: S scaling from 10 to 9 servers
+Load Balancer Name: P scaling from 10 to 9 servers
+
+
+ENTERING CYCLE:  2
+Load Balancer Name: S still has: 9
+Load Balancer Name: P still has: 9
+
+
+ENTERING CYCLE:  3
+Load Balancer Name: S scaling from 9 to 8 servers
+Load Balancer Name: P scaling from 9 to 8 servers
+
+
+ENTERING CYCLE:  4
+Load Balancer Name: S still has: 8
+Load Balancer Name: P still has: 8
+
+
+ENTERING CYCLE:  5
+Load Balancer Name: S scaling from 8 to 7 servers
+Load Balancer Name: P scaling from 8 to 7 servers
+
+
+ENTERING CYCLE:  6
+Load Balancer Name: S still has: 7
+Load Balancer Name: P still has: 7
+
+
+ENTERING CYCLE:  7
+Load Balancer Name: S still has: 7
+Load Balancer Name: P still has: 7
+
+
+ENTERING CYCLE:  8
+Load Balancer Name: S scaling from 7 to 6 servers
+Load Balancer Name: P scaling from 7 to 6 servers
+
+
+ENTERING CYCLE:  9
+Load Balancer Name: S still has: 6
+Load Balancer Name: P still has: 6
+
+
+ENTERING CYCLE:  10
+Load Balancer Name: S still has: 6
+Load Balancer Name: P still has: 6
+
+
+ENTERING CYCLE:  11
+Load Balancer Name: S scaling from 6 to 5 servers
+Load Balancer Name: P scaling from 6 to 5 servers
+
+
+ENTERING CYCLE:  12
+Load Balancer Name: S still has: 5
+Load Balancer Name: P still has: 5
+
+
+ENTERING CYCLE:  13
+Load Balancer Name: S still has: 5
+Load Balancer Name: P still has: 5
+
+
+ENTERING CYCLE:  14
+Load Balancer Name: S still has: 5
+Load Balancer Name: P still has: 5
+
+
+ENTERING CYCLE:  15
+Load Balancer Name: S scaling from 5 to 4 servers
+Load Balancer Name: P scaling from 5 to 4 servers
+
+
+ENTERING CYCLE:  16
+Load Balancer Name: S still has: 4
+Load Balancer Name: P still has: 4
+
+
+ENTERING CYCLE:  17
+Load Balancer Name: S still has: 4
+Load Balancer Name: P still has: 4
+
+
+ENTERING CYCLE:  18
+Load Balancer Name: S still has: 4
+Load Balancer Name: P still has: 4
+
+
+ENTERING CYCLE:  19
+Load Balancer Name: S still has: 4
+Load Balancer Name: P still has: 4
+
+
+ENTERING CYCLE:  20
+Load Balancer Name: S scaling from 4 to 3 servers
+Load Balancer Name: P scaling from 4 to 3 servers
+
+
+ENTERING CYCLE:  21
+Load Balancer Name: S still has: 3
+Load Balancer Name: P still has: 3
+
+
+ENTERING CYCLE:  22
+Load Balancer Name: S still has: 3
+Load Balancer Name: P still has: 3
+
+
+ENTERING CYCLE:  23
+Load Balancer Name: S still has: 3
+Load Balancer Name: P still has: 3
+
+
+ENTERING CYCLE:  24
+Load Balancer Name: S still has: 3
+Load Balancer Name: P still has: 3
+
+
+ENTERING CYCLE:  25
+Load Balancer Name: S still has: 3
+Load Balancer Name: P still has: 3
+
+
+ENTERING CYCLE:  26
+Load Balancer Name: S scaling from 3 to 2 servers
+Load Balancer Name: P scaling from 3 to 2 servers
+
+
+ENTERING CYCLE:  27
+Load Balancer Name: S still has: 2
+Load Balancer Name: P still has: 2
+
+
+ENTERING CYCLE:  28
+Load Balancer Name: S still has: 2
+Load Balancer Name: P still has: 2
+
+
+ENTERING CYCLE:  29
+Load Balancer Name: S still has: 2
+Load Balancer Name: P still has: 2
+
+
+ENTERING CYCLE:  30
+Load Balancer Name: S still has: 2
+Load Balancer Name: P still has: 2
+
+
+ENTERING CYCLE:  31
+Load Balancer Name: S still has: 2
+Load Balancer Name: P still has: 2
+
+
+ENTERING CYCLE:  32
+Load Balancer Name: S still has: 2
+Load Balancer Name: P still has: 2
+
+
+ENTERING CYCLE:  33
+Load Balancer Name: S still has: 2
+Load Balancer Name: P still has: 2
+
+
+ENTERING CYCLE:  34
+Load Balancer Name: S still has: 2
+Load Balancer Name: P still has: 2
+
+
+ENTERING CYCLE:  35
+Load Balancer Name: S still has: 2
+Load Balancer Name: P still has: 2
+
+
+ENTERING CYCLE:  36
+Load Balancer Name: S scaling from 2 to 1 servers
+Load Balancer Name: P scaling from 2 to 1 servers
+
+
+ENTERING CYCLE:  37
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  38
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  39
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  40
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  41
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  42
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  43
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  44
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  45
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  46
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  47
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  48
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  49
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  50
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  51
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  52
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  53
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  54
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  55
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  56
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  57
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  58
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  59
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  60
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  61
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  62
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  63
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  64
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  65
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  66
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  67
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  68
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  69
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  70
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  71
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  72
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  73
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  74
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  75
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  76
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  77
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  78
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  79
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  80
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  81
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  82
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  83
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  84
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  85
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  86
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  87
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  88
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  89
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  90
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  91
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  92
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  93
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  94
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  95
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  96
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  97
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  98
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  99
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+

@@ -1,3 +1,8 @@
+/**
+ * @file RequestGenerator.h
+ * @brief Declaration of the RequestGenerator class.
+ */
+
 #pragma once
 
 #include <iostream>
@@ -11,6 +16,10 @@ using namespace std;
 
     #define S true
     #define P false
+    /**
+     * @struct Request
+     * @brief Represents a  Request with inp./out. IPs, processing time, and type.
+     */
     struct Request {            //define a queue 
             std::string ipIn;
             std::string ipOut;
@@ -18,6 +27,10 @@ using namespace std;
             bool type;
     };
 
+    /**
+     * @class RequestGenerator
+     * @brief Generates Requests with random IPs, processing times, and types.
+     */
     class RequestGenerator {
         public:
             RequestGenerator();

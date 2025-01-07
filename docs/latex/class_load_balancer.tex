@@ -1,0 +1,60 @@
+\doxysection{Load\+Balancer Class Reference}
+\hypertarget{class_load_balancer}{}\label{class_load_balancer}\index{LoadBalancer@{LoadBalancer}}
+\doxysubsubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{class_load_balancer_aac894914d2a853a24046bb64e2bdfd75}{Load\+Balancer}} (string \+\_\+name)
+\begin{DoxyCompactList}\small\item\em Constructs a \doxylink{class_load_balancer}{Load\+Balancer} with the given name. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_load_balancer_acabe5637571e2390c39c0684e20f1c50}{push}} (const \mbox{\hyperlink{struct_request}{Request}} \&\mbox{\hyperlink{struct_request}{Request}})
+\begin{DoxyCompactList}\small\item\em Adds a \doxylink{struct_request}{Request} to the \doxylink{class_load_balancer}{Load\+Balancer}\textquotesingle{}s queue. \end{DoxyCompactList}\item 
+\Hypertarget{class_load_balancer_a98481ea65f4475e69ab4c35a4ae26c42}\label{class_load_balancer_a98481ea65f4475e69ab4c35a4ae26c42} 
+void {\bfseries pop} ()
+\begin{DoxyCompactList}\small\item\em Removes the front \doxylink{struct_request}{Request} from the queue. \end{DoxyCompactList}\item 
+\Hypertarget{class_load_balancer_ac6acbff80213513aa92bc33342ad045c}\label{class_load_balancer_ac6acbff80213513aa92bc33342ad045c} 
+void {\bfseries scale} ()
+\begin{DoxyCompactList}\small\item\em Adjusts the number of Web\+Servers based on the current load. Scales up by adding servers if needed and scales down by removing idle servers. \end{DoxyCompactList}\item 
+\Hypertarget{class_load_balancer_ad8c7f89645b1c1a962b3c9c3ff26c438}\label{class_load_balancer_ad8c7f89645b1c1a962b3c9c3ff26c438} 
+void {\bfseries Load\+Balance\+Tick} ()
+\begin{DoxyCompactList}\small\item\em Processes one tick (cycle) of load balancing. Invokes scaling and assigns Requests to available Web\+Servers. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\Hypertarget{class_load_balancer_aac894914d2a853a24046bb64e2bdfd75}\index{LoadBalancer@{LoadBalancer}!LoadBalancer@{LoadBalancer}}
+\index{LoadBalancer@{LoadBalancer}!LoadBalancer@{LoadBalancer}}
+\doxysubsubsection{\texorpdfstring{LoadBalancer()}{LoadBalancer()}}
+{\footnotesize\ttfamily \label{class_load_balancer_aac894914d2a853a24046bb64e2bdfd75} 
+Load\+Balancer\+::\+Load\+Balancer (\begin{DoxyParamCaption}\item[{string}]{\+\_\+name}{}\end{DoxyParamCaption})}
+
+
+
+Constructs a \doxylink{class_load_balancer}{Load\+Balancer} with the given name. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em \+\_\+name} & Name of the \doxylink{class_load_balancer}{Load\+Balancer}. \\
+\hline
+\end{DoxyParams}
+
+
+\doxysubsection{Member Function Documentation}
+\Hypertarget{class_load_balancer_acabe5637571e2390c39c0684e20f1c50}\index{LoadBalancer@{LoadBalancer}!push@{push}}
+\index{push@{push}!LoadBalancer@{LoadBalancer}}
+\doxysubsubsection{\texorpdfstring{push()}{push()}}
+{\footnotesize\ttfamily \label{class_load_balancer_acabe5637571e2390c39c0684e20f1c50} 
+void Load\+Balancer\+::push (\begin{DoxyParamCaption}\item[{const \mbox{\hyperlink{struct_request}{Request}} \&}]{Request}{}\end{DoxyParamCaption})}
+
+
+
+Adds a \doxylink{struct_request}{Request} to the \doxylink{class_load_balancer}{Load\+Balancer}\textquotesingle{}s queue. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em request} & The \doxylink{struct_request}{Request} to be added. \\
+\hline
+\end{DoxyParams}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{_load_balancer_8h}{Load\+Balancer.\+h}}\item 
+Load\+Balance.\+cpp\end{DoxyCompactItemize}

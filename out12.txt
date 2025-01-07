@@ -1,0 +1,7038 @@
+Enter initial number of servers: Enter number of clock cycles: Simulation started with 10 servers and 100 clock cycles.
+
+ENTERING CYCLE:  0
+Load Balancer Name: S scaling from 0 to 10 servers
+Load Balancer Name: P scaling from 0 to 10 servers
+
+
+ENTERING CYCLE:  1
+All servers busy, cannot scale down
+Load Balancer Name: S still has: 10
+Request 199.154.73.254 complete
+Server 0 has 0 cycles remaining
+Request 99.197.172.155 complete
+Server 1 has 0 cycles remaining
+Request 46.155.131.4 complete
+Server 2 has 0 cycles remaining
+Request 214.211.231.125 complete
+Server 3 has 0 cycles remaining
+Request 208.212.158.202 complete
+Server 4 has 0 cycles remaining
+Request 133.151.79.66 complete
+Server 5 has 0 cycles remaining
+Request 86.159.172.190 complete
+Server 6 has 0 cycles remaining
+Request 25.91.205.95 complete
+Server 7 has 0 cycles remaining
+Request 109.70.124.72 complete
+Server 8 has 0 cycles remaining
+Request 135.134.255.73 complete
+Server 9 has 0 cycles remaining
+All servers busy, cannot scale down
+Load Balancer Name: P still has: 10
+Request 155.50.31.54 complete
+Server 0 has 0 cycles remaining
+Request 2.45.124.87 complete
+Server 1 has 0 cycles remaining
+Request 140.73.233.26 complete
+Server 2 has 0 cycles remaining
+Request 9.91.77.39 complete
+Server 3 has 0 cycles remaining
+Request 24.147.155.143 complete
+Server 4 has 0 cycles remaining
+Request 147.175.136.97 complete
+Server 5 has 0 cycles remaining
+Request 192.71.170.185 complete
+Server 6 has 0 cycles remaining
+Request 191.242.2.67 complete
+Server 7 has 0 cycles remaining
+Request 83.100.59.78 complete
+Server 8 has 0 cycles remaining
+Request 32.56.94.179 complete
+Server 9 has 0 cycles remaining
+
+
+ENTERING CYCLE:  2
+Load Balancer Name: S scaling from 10 to 9 servers
+Load Balancer Name: P scaling from 10 to 9 servers
+
+
+ENTERING CYCLE:  3
+Load Balancer Name: S still has: 9
+Request 103.46.130.196 complete
+Server 0 has 0 cycles remaining
+Request 106.50.120.219 complete
+Server 1 has 0 cycles remaining
+Request 125.155.142.189 complete
+Server 2 has 0 cycles remaining
+Request 201.51.105.177 complete
+Server 3 has 0 cycles remaining
+Request 12.255.253.162 complete
+Server 4 has 0 cycles remaining
+Request 52.226.100.146 complete
+Server 5 has 0 cycles remaining
+Request 163.121.87.215 complete
+Server 6 has 0 cycles remaining
+Request 217.228.64.71 complete
+Server 7 has 0 cycles remaining
+Request 152.123.190.121 complete
+Server 8 has 0 cycles remaining
+Load Balancer Name: P still has: 9
+Request 17.162.214.108 complete
+Server 0 has 0 cycles remaining
+Request 39.96.212.250 complete
+Server 1 has 0 cycles remaining
+Request 31.133.56.64 complete
+Server 2 has 0 cycles remaining
+Request 243.147.29.169 complete
+Server 3 has 0 cycles remaining
+Request 223.18.252.56 complete
+Server 4 has 0 cycles remaining
+Request 6.17.130.109 complete
+Server 5 has 0 cycles remaining
+Request 180.204.47.27 complete
+Server 6 has 0 cycles remaining
+Request 87.0.227.184 complete
+Server 7 has 0 cycles remaining
+Request 189.94.132.216 complete
+Server 8 has 0 cycles remaining
+
+
+ENTERING CYCLE:  4
+Load Balancer Name: S still has: 9
+Load Balancer Name: P still has: 9
+
+
+ENTERING CYCLE:  5
+All servers busy, cannot scale down
+Load Balancer Name: S still has: 9
+Request 19.211.212.0 complete
+Server 0 has 0 cycles remaining
+Request 56.69.206.120 complete
+Server 1 has 0 cycles remaining
+Request 207.117.196.176 complete
+Server 2 has 0 cycles remaining
+Request 54.10.21.93 complete
+Server 3 has 0 cycles remaining
+Request 124.145.234.164 complete
+Server 4 has 0 cycles remaining
+Request 236.63.105.247 complete
+Server 5 has 0 cycles remaining
+Request 137.102.134.170 complete
+Server 6 has 0 cycles remaining
+Request 192.199.22.252 complete
+Server 7 has 0 cycles remaining
+Request 250.209.99.17 complete
+Server 8 has 0 cycles remaining
+All servers busy, cannot scale down
+Load Balancer Name: P still has: 9
+Request 73.110.153.221 complete
+Server 0 has 0 cycles remaining
+Request 232.125.118.77 complete
+Server 1 has 0 cycles remaining
+Request 25.70.75.121 complete
+Server 2 has 0 cycles remaining
+Request 19.128.47.223 complete
+Server 3 has 0 cycles remaining
+Request 121.200.199.21 complete
+Server 4 has 0 cycles remaining
+Request 77.67.23.205 complete
+Server 5 has 0 cycles remaining
+Request 64.31.22.130 complete
+Server 6 has 0 cycles remaining
+Request 166.192.70.204 complete
+Server 7 has 0 cycles remaining
+Request 111.9.151.122 complete
+Server 8 has 0 cycles remaining
+
+
+ENTERING CYCLE:  6
+Load Balancer Name: S scaling from 9 to 8 servers
+Load Balancer Name: P scaling from 9 to 8 servers
+
+
+ENTERING CYCLE:  7
+Load Balancer Name: S still has: 8
+Request 20.96.224.80 complete
+Server 0 has 0 cycles remaining
+Request 152.96.32.163 complete
+Server 1 has 0 cycles remaining
+Request 4.142.211.97 complete
+Server 2 has 0 cycles remaining
+Request 36.237.158.219 complete
+Server 3 has 0 cycles remaining
+Request 221.254.37.173 complete
+Server 4 has 0 cycles remaining
+Request 38.142.128.182 complete
+Server 5 has 0 cycles remaining
+Request 75.188.161.102 complete
+Server 6 has 0 cycles remaining
+Request 32.126.192.113 complete
+Server 7 has 0 cycles remaining
+Load Balancer Name: P still has: 8
+Request 89.171.60.13 complete
+Server 0 has 0 cycles remaining
+Request 225.79.214.153 complete
+Server 1 has 0 cycles remaining
+Request 190.169.157.235 complete
+Server 2 has 0 cycles remaining
+Request 6.88.94.28 complete
+Server 3 has 0 cycles remaining
+Request 84.47.109.204 complete
+Server 4 has 0 cycles remaining
+Request 132.177.56.170 complete
+Server 5 has 0 cycles remaining
+Request 198.203.174.86 complete
+Server 6 has 0 cycles remaining
+Request 28.255.118.42 complete
+Server 7 has 0 cycles remaining
+
+
+ENTERING CYCLE:  8
+Load Balancer Name: S still has: 8
+Load Balancer Name: P still has: 8
+
+
+ENTERING CYCLE:  9
+All servers busy, cannot scale down
+Load Balancer Name: S still has: 8
+Request 229.94.153.92 complete
+Server 0 has 0 cycles remaining
+Request 147.13.233.84 complete
+Server 1 has 0 cycles remaining
+Request 152.86.102.149 complete
+Server 2 has 0 cycles remaining
+Request 110.115.126.43 complete
+Server 3 has 0 cycles remaining
+Request 221.7.83.184 complete
+Server 4 has 0 cycles remaining
+Request 249.232.157.109 complete
+Server 5 has 0 cycles remaining
+Request 217.162.205.54 complete
+Server 6 has 0 cycles remaining
+Request 235.87.222.168 complete
+Server 7 has 0 cycles remaining
+All servers busy, cannot scale down
+Load Balancer Name: P still has: 8
+Request 15.104.44.182 complete
+Server 0 has 0 cycles remaining
+Request 37.130.43.20 complete
+Server 1 has 0 cycles remaining
+Request 174.109.194.113 complete
+Server 2 has 0 cycles remaining
+Request 69.8.204.137 complete
+Server 3 has 0 cycles remaining
+Request 241.181.173.43 complete
+Server 4 has 0 cycles remaining
+Request 202.88.231.229 complete
+Server 5 has 0 cycles remaining
+Request 64.237.234.165 complete
+Server 6 has 0 cycles remaining
+Request 242.89.122.220 complete
+Server 7 has 0 cycles remaining
+
+
+ENTERING CYCLE:  10
+Load Balancer Name: S scaling from 8 to 7 servers
+Load Balancer Name: P scaling from 8 to 7 servers
+
+
+ENTERING CYCLE:  11
+Load Balancer Name: S still has: 7
+Request 105.176.15.45 complete
+Server 0 has 0 cycles remaining
+Request 99.156.219.56 complete
+Server 1 has 0 cycles remaining
+Request 189.78.55.243 complete
+Server 2 has 0 cycles remaining
+Request 212.132.106.103 complete
+Server 3 has 0 cycles remaining
+Request 190.147.10.240 complete
+Server 4 has 0 cycles remaining
+Request 42.168.49.35 complete
+Server 5 has 0 cycles remaining
+Request 251.151.197.71 complete
+Server 6 has 0 cycles remaining
+Load Balancer Name: P still has: 7
+Request 125.3.154.88 complete
+Server 0 has 0 cycles remaining
+Request 160.65.14.68 complete
+Server 1 has 0 cycles remaining
+Request 233.93.75.236 complete
+Server 2 has 0 cycles remaining
+Request 190.145.146.59 complete
+Server 3 has 0 cycles remaining
+Request 206.190.79.199 complete
+Server 4 has 0 cycles remaining
+Request 231.11.42.107 complete
+Server 5 has 0 cycles remaining
+Request 226.65.202.62 complete
+Server 6 has 0 cycles remaining
+
+
+ENTERING CYCLE:  12
+Load Balancer Name: S still has: 7
+Load Balancer Name: P still has: 7
+
+
+ENTERING CYCLE:  13
+Load Balancer Name: S still has: 7
+Request 203.7.173.139 complete
+Server 0 has 0 cycles remaining
+Request 176.247.85.221 complete
+Server 1 has 0 cycles remaining
+Request 98.199.32.205 complete
+Server 2 has 0 cycles remaining
+Request 106.46.199.187 complete
+Server 3 has 0 cycles remaining
+Request 167.110.65.163 complete
+Server 4 has 0 cycles remaining
+Request 5.15.105.199 complete
+Server 5 has 0 cycles remaining
+Request 3.247.84.242 complete
+Server 6 has 0 cycles remaining
+Load Balancer Name: P still has: 7
+Request 21.36.44.216 complete
+Server 0 has 0 cycles remaining
+Request 245.113.190.235 complete
+Server 1 has 0 cycles remaining
+Request 226.182.241.218 complete
+Server 2 has 0 cycles remaining
+Request 233.99.246.71 complete
+Server 3 has 0 cycles remaining
+Request 243.134.128.171 complete
+Server 4 has 0 cycles remaining
+Request 197.104.249.179 complete
+Server 5 has 0 cycles remaining
+Request 193.99.222.102 complete
+Server 6 has 0 cycles remaining
+
+
+ENTERING CYCLE:  14
+Load Balancer Name: S still has: 7
+Load Balancer Name: P still has: 7
+
+
+ENTERING CYCLE:  15
+All servers busy, cannot scale down
+Load Balancer Name: S still has: 7
+Request 189.159.163.123 complete
+Server 0 has 0 cycles remaining
+Request 181.146.91.126 complete
+Server 1 has 0 cycles remaining
+Request 17.39.115.176 complete
+Server 2 has 0 cycles remaining
+Request 170.49.79.202 complete
+Server 3 has 0 cycles remaining
+Request 118.224.90.23 complete
+Server 4 has 0 cycles remaining
+Request 108.64.197.216 complete
+Server 5 has 0 cycles remaining
+Request 168.51.213.128 complete
+Server 6 has 0 cycles remaining
+All servers busy, cannot scale down
+Load Balancer Name: P still has: 7
+Request 143.200.102.153 complete
+Server 0 has 0 cycles remaining
+Request 40.68.130.117 complete
+Server 1 has 0 cycles remaining
+Request 224.209.21.75 complete
+Server 2 has 0 cycles remaining
+Request 223.67.136.5 complete
+Server 3 has 0 cycles remaining
+Request 255.112.31.108 complete
+Server 4 has 0 cycles remaining
+Request 255.168.71.6 complete
+Server 5 has 0 cycles remaining
+Request 34.72.161.162 complete
+Server 6 has 0 cycles remaining
+
+
+ENTERING CYCLE:  16
+Load Balancer Name: S scaling from 7 to 6 servers
+Load Balancer Name: P scaling from 7 to 6 servers
+
+
+ENTERING CYCLE:  17
+Load Balancer Name: S still has: 6
+Request 158.163.130.73 complete
+Server 0 has 0 cycles remaining
+Request 90.209.102.85 complete
+Server 1 has 0 cycles remaining
+Request 226.117.160.112 complete
+Server 2 has 0 cycles remaining
+Request 76.132.49.2 complete
+Server 3 has 0 cycles remaining
+Request 169.34.99.22 complete
+Server 4 has 0 cycles remaining
+Request 16.1.127.235 complete
+Server 5 has 0 cycles remaining
+Load Balancer Name: P still has: 6
+Request 79.124.241.214 complete
+Server 0 has 0 cycles remaining
+Request 84.233.114.139 complete
+Server 1 has 0 cycles remaining
+Request 113.72.148.153 complete
+Server 2 has 0 cycles remaining
+Request 131.198.177.86 complete
+Server 3 has 0 cycles remaining
+Request 211.120.211.62 complete
+Server 4 has 0 cycles remaining
+Request 255.204.191.151 complete
+Server 5 has 0 cycles remaining
+
+
+ENTERING CYCLE:  18
+Load Balancer Name: S still has: 6
+Load Balancer Name: P still has: 6
+
+
+ENTERING CYCLE:  19
+Load Balancer Name: S still has: 6
+Request 90.47.49.60 complete
+Server 0 has 0 cycles remaining
+Request 45.137.242.102 complete
+Server 1 has 0 cycles remaining
+Request 123.34.204.95 complete
+Server 2 has 0 cycles remaining
+Request 134.140.57.93 complete
+Server 3 has 0 cycles remaining
+Request 39.177.174.115 complete
+Server 4 has 0 cycles remaining
+Request 242.210.60.84 complete
+Server 5 has 0 cycles remaining
+Load Balancer Name: P still has: 6
+Request 194.231.108.194 complete
+Server 0 has 0 cycles remaining
+Request 255.230.77.28 complete
+Server 1 has 0 cycles remaining
+Request 100.147.225.51 complete
+Server 2 has 0 cycles remaining
+Request 107.84.75.153 complete
+Server 3 has 0 cycles remaining
+Request 212.114.213.111 complete
+Server 4 has 0 cycles remaining
+Request 246.242.202.187 complete
+Server 5 has 0 cycles remaining
+
+
+ENTERING CYCLE:  20
+Load Balancer Name: S still has: 6
+Load Balancer Name: P still has: 6
+
+
+ENTERING CYCLE:  21
+All servers busy, cannot scale down
+Load Balancer Name: S still has: 6
+Request 37.48.226.111 complete
+Server 0 has 0 cycles remaining
+Request 246.186.186.236 complete
+Server 1 has 0 cycles remaining
+Request 220.55.198.28 complete
+Server 2 has 0 cycles remaining
+Request 143.14.91.99 complete
+Server 3 has 0 cycles remaining
+Request 33.147.23.243 complete
+Server 4 has 0 cycles remaining
+Request 149.224.56.30 complete
+Server 5 has 0 cycles remaining
+All servers busy, cannot scale down
+Load Balancer Name: P still has: 6
+Request 193.28.0.116 complete
+Server 0 has 0 cycles remaining
+Request 231.186.117.170 complete
+Server 1 has 0 cycles remaining
+Request 242.209.139.60 complete
+Server 2 has 0 cycles remaining
+Request 62.204.254.196 complete
+Server 3 has 0 cycles remaining
+Request 139.250.58.120 complete
+Server 4 has 0 cycles remaining
+Request 124.17.91.114 complete
+Server 5 has 0 cycles remaining
+
+
+ENTERING CYCLE:  22
+Load Balancer Name: S scaling from 6 to 5 servers
+Load Balancer Name: P scaling from 6 to 5 servers
+
+
+ENTERING CYCLE:  23
+Load Balancer Name: S still has: 5
+Request 47.17.81.202 complete
+Server 0 has 0 cycles remaining
+Request 138.61.243.184 complete
+Server 1 has 0 cycles remaining
+Request 0.95.208.60 complete
+Server 2 has 0 cycles remaining
+Request 123.52.255.81 complete
+Server 3 has 0 cycles remaining
+Request 49.255.174.1 complete
+Server 4 has 0 cycles remaining
+Load Balancer Name: P still has: 5
+Request 204.147.13.206 complete
+Server 0 has 0 cycles remaining
+Request 159.88.201.252 complete
+Server 1 has 0 cycles remaining
+Request 211.233.125.192 complete
+Server 2 has 0 cycles remaining
+Request 78.142.175.19 complete
+Server 3 has 0 cycles remaining
+Request 109.180.180.209 complete
+Server 4 has 0 cycles remaining
+
+
+ENTERING CYCLE:  24
+Load Balancer Name: S still has: 5
+Load Balancer Name: P still has: 5
+
+
+ENTERING CYCLE:  25
+Load Balancer Name: S still has: 5
+Request 185.17.237.242 complete
+Server 0 has 0 cycles remaining
+Request 80.226.194.132 complete
+Server 1 has 0 cycles remaining
+Request 126.25.193.142 complete
+Server 2 has 0 cycles remaining
+Request 243.226.67.232 complete
+Server 3 has 0 cycles remaining
+Request 191.25.64.12 complete
+Server 4 has 0 cycles remaining
+Load Balancer Name: P still has: 5
+Request 115.254.196.217 complete
+Server 0 has 0 cycles remaining
+Request 164.254.174.47 complete
+Server 1 has 0 cycles remaining
+Request 100.66.143.177 complete
+Server 2 has 0 cycles remaining
+Request 229.26.182.229 complete
+Server 3 has 0 cycles remaining
+Request 189.143.38.61 complete
+Server 4 has 0 cycles remaining
+
+
+ENTERING CYCLE:  26
+Load Balancer Name: S still has: 5
+Load Balancer Name: P still has: 5
+
+
+ENTERING CYCLE:  27
+Load Balancer Name: S still has: 5
+Request 154.6.139.241 complete
+Server 0 has 0 cycles remaining
+Request 248.26.159.64 complete
+Server 1 has 0 cycles remaining
+Request 181.12.95.40 complete
+Server 2 has 0 cycles remaining
+Request 128.194.70.74 complete
+Server 3 has 0 cycles remaining
+Request 232.152.120.194 complete
+Server 4 has 0 cycles remaining
+Load Balancer Name: P still has: 5
+Request 12.2.254.188 complete
+Server 0 has 0 cycles remaining
+Request 209.35.220.64 complete
+Server 1 has 0 cycles remaining
+Request 227.98.147.18 complete
+Server 2 has 0 cycles remaining
+Request 78.238.237.32 complete
+Server 3 has 0 cycles remaining
+Request 193.125.166.181 complete
+Server 4 has 0 cycles remaining
+
+
+ENTERING CYCLE:  28
+Load Balancer Name: S still has: 5
+Load Balancer Name: P still has: 5
+
+
+ENTERING CYCLE:  29
+All servers busy, cannot scale down
+Load Balancer Name: S still has: 5
+Request 143.148.148.158 complete
+Server 0 has 0 cycles remaining
+Request 178.20.216.3 complete
+Server 1 has 0 cycles remaining
+Request 54.9.14.15 complete
+Server 2 has 0 cycles remaining
+Request 112.248.247.187 complete
+Server 3 has 0 cycles remaining
+Request 193.96.74.44 complete
+Server 4 has 0 cycles remaining
+All servers busy, cannot scale down
+Load Balancer Name: P still has: 5
+Request 219.124.247.186 complete
+Server 0 has 0 cycles remaining
+Request 111.85.178.68 complete
+Server 1 has 0 cycles remaining
+Request 135.78.90.13 complete
+Server 2 has 0 cycles remaining
+Request 176.175.194.6 complete
+Server 3 has 0 cycles remaining
+Request 82.48.209.51 complete
+Server 4 has 0 cycles remaining
+
+
+ENTERING CYCLE:  30
+Load Balancer Name: S scaling from 5 to 4 servers
+Load Balancer Name: P scaling from 5 to 4 servers
+
+
+ENTERING CYCLE:  31
+Load Balancer Name: S still has: 4
+Request 167.179.83.15 complete
+Server 0 has 0 cycles remaining
+Request 105.167.238.42 complete
+Server 1 has 0 cycles remaining
+Request 42.140.139.200 complete
+Server 2 has 0 cycles remaining
+Request 126.172.137.62 complete
+Server 3 has 0 cycles remaining
+Load Balancer Name: P still has: 4
+Request 79.229.180.17 complete
+Server 0 has 0 cycles remaining
+Request 19.233.30.110 complete
+Server 1 has 0 cycles remaining
+Request 88.70.10.137 complete
+Server 2 has 0 cycles remaining
+Request 141.37.127.182 complete
+Server 3 has 0 cycles remaining
+
+
+ENTERING CYCLE:  32
+Load Balancer Name: S still has: 4
+Load Balancer Name: P still has: 4
+
+
+ENTERING CYCLE:  33
+Load Balancer Name: S still has: 4
+Request 160.116.206.175 complete
+Server 0 has 0 cycles remaining
+Request 153.11.181.85 complete
+Server 1 has 0 cycles remaining
+Request 60.99.44.25 complete
+Server 2 has 0 cycles remaining
+Request 129.183.87.235 complete
+Server 3 has 0 cycles remaining
+Load Balancer Name: P still has: 4
+Request 238.148.206.231 complete
+Server 0 has 0 cycles remaining
+Request 241.44.104.74 complete
+Server 1 has 0 cycles remaining
+Request 84.49.53.145 complete
+Server 2 has 0 cycles remaining
+Request 231.204.231.143 complete
+Server 3 has 0 cycles remaining
+
+
+ENTERING CYCLE:  34
+Load Balancer Name: S still has: 4
+Load Balancer Name: P still has: 4
+
+
+ENTERING CYCLE:  35
+Load Balancer Name: S still has: 4
+Request 78.42.183.9 complete
+Server 0 has 0 cycles remaining
+Request 118.54.233.165 complete
+Server 1 has 0 cycles remaining
+Request 153.74.233.71 complete
+Server 2 has 0 cycles remaining
+Request 72.86.136.50 complete
+Server 3 has 0 cycles remaining
+Load Balancer Name: P still has: 4
+Request 127.250.119.57 complete
+Server 0 has 0 cycles remaining
+Request 215.176.42.202 complete
+Server 1 has 0 cycles remaining
+Request 84.240.158.39 complete
+Server 2 has 0 cycles remaining
+Request 53.128.178.182 complete
+Server 3 has 0 cycles remaining
+
+
+ENTERING CYCLE:  36
+Load Balancer Name: S still has: 4
+Load Balancer Name: P still has: 4
+
+
+ENTERING CYCLE:  37
+Load Balancer Name: S still has: 4
+Request 131.190.175.252 complete
+Server 0 has 0 cycles remaining
+Request 210.84.125.90 complete
+Server 1 has 0 cycles remaining
+Request 128.149.56.165 complete
+Server 2 has 0 cycles remaining
+Request 81.77.40.71 complete
+Server 3 has 0 cycles remaining
+Load Balancer Name: P still has: 4
+Request 12.125.171.58 complete
+Server 0 has 0 cycles remaining
+Request 67.25.141.171 complete
+Server 1 has 0 cycles remaining
+Request 11.208.21.37 complete
+Server 2 has 0 cycles remaining
+Request 219.183.228.107 complete
+Server 3 has 0 cycles remaining
+
+
+ENTERING CYCLE:  38
+Load Balancer Name: S still has: 4
+Load Balancer Name: P still has: 4
+
+
+ENTERING CYCLE:  39
+All servers busy, cannot scale down
+Load Balancer Name: S still has: 4
+Request 225.206.26.116 complete
+Server 0 has 0 cycles remaining
+Request 3.230.183.105 complete
+Server 1 has 0 cycles remaining
+Request 50.193.157.211 complete
+Server 2 has 0 cycles remaining
+Request 34.4.71.78 complete
+Server 3 has 0 cycles remaining
+All servers busy, cannot scale down
+Load Balancer Name: P still has: 4
+Request 253.40.18.48 complete
+Server 0 has 0 cycles remaining
+Request 39.241.76.169 complete
+Server 1 has 0 cycles remaining
+Request 111.88.210.32 complete
+Server 2 has 0 cycles remaining
+Request 56.196.27.24 complete
+Server 3 has 0 cycles remaining
+
+
+ENTERING CYCLE:  40
+Load Balancer Name: S scaling from 4 to 3 servers
+Load Balancer Name: P scaling from 4 to 3 servers
+
+
+ENTERING CYCLE:  41
+Load Balancer Name: S still has: 3
+Request 185.124.190.56 complete
+Server 0 has 0 cycles remaining
+Request 229.46.116.31 complete
+Server 1 has 0 cycles remaining
+Request 179.102.203.113 complete
+Server 2 has 0 cycles remaining
+Load Balancer Name: P still has: 3
+Request 133.254.154.58 complete
+Server 0 has 0 cycles remaining
+Request 175.203.159.2 complete
+Server 1 has 0 cycles remaining
+Request 16.197.16.15 complete
+Server 2 has 0 cycles remaining
+
+
+ENTERING CYCLE:  42
+Load Balancer Name: S still has: 3
+Load Balancer Name: P still has: 3
+
+
+ENTERING CYCLE:  43
+Load Balancer Name: S still has: 3
+Request 229.97.30.126 complete
+Server 0 has 0 cycles remaining
+Request 21.185.204.231 complete
+Server 1 has 0 cycles remaining
+Request 9.68.176.36 complete
+Server 2 has 0 cycles remaining
+Load Balancer Name: P still has: 3
+Request 12.68.249.111 complete
+Server 0 has 0 cycles remaining
+Request 198.102.187.19 complete
+Server 1 has 0 cycles remaining
+Request 111.168.92.167 complete
+Server 2 has 0 cycles remaining
+
+
+ENTERING CYCLE:  44
+Load Balancer Name: S still has: 3
+Load Balancer Name: P still has: 3
+
+
+ENTERING CYCLE:  45
+Load Balancer Name: S still has: 3
+Request 210.7.49.208 complete
+Server 0 has 0 cycles remaining
+Request 247.236.35.147 complete
+Server 1 has 0 cycles remaining
+Request 237.101.89.186 complete
+Server 2 has 0 cycles remaining
+Load Balancer Name: P still has: 3
+Request 142.231.160.216 complete
+Server 0 has 0 cycles remaining
+Request 108.168.11.55 complete
+Server 1 has 0 cycles remaining
+Request 119.130.101.197 complete
+Server 2 has 0 cycles remaining
+
+
+ENTERING CYCLE:  46
+Load Balancer Name: S still has: 3
+Load Balancer Name: P still has: 3
+
+
+ENTERING CYCLE:  47
+Load Balancer Name: S still has: 3
+Request 200.21.126.99 complete
+Server 0 has 0 cycles remaining
+Request 62.98.234.240 complete
+Server 1 has 0 cycles remaining
+Request 54.121.82.60 complete
+Server 2 has 0 cycles remaining
+Load Balancer Name: P still has: 3
+Request 251.75.153.70 complete
+Server 0 has 0 cycles remaining
+Request 197.147.52.54 complete
+Server 1 has 0 cycles remaining
+Request 125.122.78.185 complete
+Server 2 has 0 cycles remaining
+
+
+ENTERING CYCLE:  48
+Load Balancer Name: S still has: 3
+Load Balancer Name: P still has: 3
+
+
+ENTERING CYCLE:  49
+Load Balancer Name: S still has: 3
+Request 96.49.23.59 complete
+Server 0 has 0 cycles remaining
+Request 246.135.210.209 complete
+Server 1 has 0 cycles remaining
+Request 156.86.120.233 complete
+Server 2 has 0 cycles remaining
+Load Balancer Name: P still has: 3
+Request 238.170.130.45 complete
+Server 0 has 0 cycles remaining
+Request 230.34.132.126 complete
+Server 1 has 0 cycles remaining
+Request 54.62.49.12 complete
+Server 2 has 0 cycles remaining
+
+
+ENTERING CYCLE:  50
+Load Balancer Name: S still has: 3
+Load Balancer Name: P still has: 3
+
+
+ENTERING CYCLE:  51
+All servers busy, cannot scale down
+Load Balancer Name: S still has: 3
+Request 233.64.193.2 complete
+Server 0 has 0 cycles remaining
+Request 50.154.5.207 complete
+Server 1 has 0 cycles remaining
+Request 219.116.109.193 complete
+Server 2 has 0 cycles remaining
+All servers busy, cannot scale down
+Load Balancer Name: P still has: 3
+Request 244.27.167.178 complete
+Server 0 has 0 cycles remaining
+Request 172.23.77.131 complete
+Server 1 has 0 cycles remaining
+Request 75.168.193.237 complete
+Server 2 has 0 cycles remaining
+
+
+ENTERING CYCLE:  52
+Load Balancer Name: S scaling from 3 to 2 servers
+Load Balancer Name: P scaling from 3 to 2 servers
+
+
+ENTERING CYCLE:  53
+Load Balancer Name: S still has: 2
+Request 181.35.213.181 complete
+Server 0 has 0 cycles remaining
+Request 190.32.34.238 complete
+Server 1 has 0 cycles remaining
+Load Balancer Name: P still has: 2
+Request 233.123.150.63 complete
+Server 0 has 0 cycles remaining
+Request 220.192.233.216 complete
+Server 1 has 0 cycles remaining
+
+
+ENTERING CYCLE:  54
+Load Balancer Name: S still has: 2
+Load Balancer Name: P still has: 2
+
+
+ENTERING CYCLE:  55
+Load Balancer Name: S still has: 2
+Request 78.53.69.140 complete
+Server 0 has 0 cycles remaining
+Request 170.165.167.140 complete
+Server 1 has 0 cycles remaining
+Load Balancer Name: P still has: 2
+Request 66.105.182.163 complete
+Server 0 has 0 cycles remaining
+Request 183.173.85.214 complete
+Server 1 has 0 cycles remaining
+
+
+ENTERING CYCLE:  56
+Load Balancer Name: S still has: 2
+Load Balancer Name: P still has: 2
+
+
+ENTERING CYCLE:  57
+Load Balancer Name: S still has: 2
+Request 109.164.36.170 complete
+Server 0 has 0 cycles remaining
+Request 162.11.213.74 complete
+Server 1 has 0 cycles remaining
+Load Balancer Name: P still has: 2
+Request 19.195.39.202 complete
+Server 0 has 0 cycles remaining
+Request 132.5.8.118 complete
+Server 1 has 0 cycles remaining
+
+
+ENTERING CYCLE:  58
+Load Balancer Name: S still has: 2
+Load Balancer Name: P still has: 2
+
+
+ENTERING CYCLE:  59
+Load Balancer Name: S still has: 2
+Request 161.44.176.220 complete
+Server 0 has 0 cycles remaining
+Request 126.78.209.33 complete
+Server 1 has 0 cycles remaining
+Load Balancer Name: P still has: 2
+Request 159.229.158.41 complete
+Server 0 has 0 cycles remaining
+Request 88.137.243.248 complete
+Server 1 has 0 cycles remaining
+
+
+ENTERING CYCLE:  60
+Load Balancer Name: S still has: 2
+Load Balancer Name: P still has: 2
+
+
+ENTERING CYCLE:  61
+Load Balancer Name: S still has: 2
+Request 180.237.11.23 complete
+Server 0 has 0 cycles remaining
+Request 173.37.41.10 complete
+Server 1 has 0 cycles remaining
+Load Balancer Name: P still has: 2
+Request 29.69.85.191 complete
+Server 0 has 0 cycles remaining
+Request 61.182.47.183 complete
+Server 1 has 0 cycles remaining
+
+
+ENTERING CYCLE:  62
+Load Balancer Name: S still has: 2
+Load Balancer Name: P still has: 2
+
+
+ENTERING CYCLE:  63
+Load Balancer Name: S still has: 2
+Request 183.184.150.245 complete
+Server 0 has 0 cycles remaining
+Request 51.19.80.216 complete
+Server 1 has 0 cycles remaining
+Load Balancer Name: P still has: 2
+Request 218.19.69.157 complete
+Server 0 has 0 cycles remaining
+Request 93.15.38.132 complete
+Server 1 has 0 cycles remaining
+
+
+ENTERING CYCLE:  64
+Load Balancer Name: S still has: 2
+Load Balancer Name: P still has: 2
+
+
+ENTERING CYCLE:  65
+Load Balancer Name: S still has: 2
+Request 7.0.150.239 complete
+Server 0 has 0 cycles remaining
+Request 169.128.147.25 complete
+Server 1 has 0 cycles remaining
+Load Balancer Name: P still has: 2
+Request 220.159.14.223 complete
+Server 0 has 0 cycles remaining
+Request 155.5.112.180 complete
+Server 1 has 0 cycles remaining
+
+
+ENTERING CYCLE:  66
+Load Balancer Name: S still has: 2
+Load Balancer Name: P still has: 2
+
+
+ENTERING CYCLE:  67
+Load Balancer Name: S still has: 2
+Request 63.178.127.180 complete
+Server 0 has 0 cycles remaining
+Request 31.141.85.109 complete
+Server 1 has 0 cycles remaining
+Load Balancer Name: P still has: 2
+Request 66.9.169.193 complete
+Server 0 has 0 cycles remaining
+Request 136.253.128.121 complete
+Server 1 has 0 cycles remaining
+
+
+ENTERING CYCLE:  68
+Load Balancer Name: S still has: 2
+Load Balancer Name: P still has: 2
+
+
+ENTERING CYCLE:  69
+Load Balancer Name: S still has: 2
+Request 75.249.195.181 complete
+Server 0 has 0 cycles remaining
+Request 195.141.63.73 complete
+Server 1 has 0 cycles remaining
+Load Balancer Name: P still has: 2
+Request 145.40.37.248 complete
+Server 0 has 0 cycles remaining
+Request 236.72.174.194 complete
+Server 1 has 0 cycles remaining
+
+
+ENTERING CYCLE:  70
+Load Balancer Name: S still has: 2
+Load Balancer Name: P still has: 2
+
+
+ENTERING CYCLE:  71
+All servers busy, cannot scale down
+Load Balancer Name: S still has: 2
+Request 243.92.189.42 complete
+Server 0 has 0 cycles remaining
+Request 62.156.127.240 complete
+Server 1 has 0 cycles remaining
+All servers busy, cannot scale down
+Load Balancer Name: P still has: 2
+Request 249.175.7.78 complete
+Server 0 has 0 cycles remaining
+Request 255.203.210.58 complete
+Server 1 has 0 cycles remaining
+
+
+ENTERING CYCLE:  72
+Load Balancer Name: S scaling from 2 to 1 servers
+Load Balancer Name: P scaling from 2 to 1 servers
+
+
+ENTERING CYCLE:  73
+Load Balancer Name: S still has: 1
+Request 37.90.174.130 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 144.198.105.211 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  74
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  75
+Load Balancer Name: S still has: 1
+Request 37.172.0.145 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 153.254.88.90 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  76
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  77
+Load Balancer Name: S still has: 1
+Request 64.11.116.249 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 151.201.127.253 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  78
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  79
+Load Balancer Name: S still has: 1
+Request 215.167.103.200 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 241.54.242.17 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  80
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  81
+Load Balancer Name: S still has: 1
+Request 61.253.124.30 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 3.52.219.184 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  82
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  83
+Load Balancer Name: S still has: 1
+Request 115.11.34.161 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 185.53.77.47 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  84
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  85
+Load Balancer Name: S still has: 1
+Request 190.113.224.16 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 233.181.62.115 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  86
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  87
+Load Balancer Name: S still has: 1
+Request 121.193.2.99 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 111.121.9.184 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  88
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  89
+Load Balancer Name: S still has: 1
+Request 4.162.201.145 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 29.190.113.254 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  90
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  91
+Load Balancer Name: S still has: 1
+Request 230.39.229.248 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 234.231.104.21 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  92
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  93
+Load Balancer Name: S still has: 1
+Request 10.126.15.183 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 69.143.138.66 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  94
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  95
+Load Balancer Name: S still has: 1
+Request 81.171.0.140 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 214.130.44.7 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  96
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  97
+Load Balancer Name: S still has: 1
+Request 199.27.58.245 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 241.111.138.37 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  98
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  99
+Load Balancer Name: S still has: 1
+Request 221.58.26.38 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 236.165.239.176 complete
+Server 0 has 0 cycles remaining
+
+Enter initial number of servers: Enter number of clock cycles: Enter initial number of servers: Enter number of clock cycles: Simulation started with 10 servers and 1000 clock cycles.
+
+ENTERING CYCLE:  0
+Load Balancer Name: S scaling from 0 to 10 servers
+Load Balancer Name: P scaling from 0 to 10 servers
+
+
+ENTERING CYCLE:  1
+All servers busy, cannot scale down
+Load Balancer Name: S still has: 10
+Request 205.13.3.184 complete
+Server 0 has 0 cycles remaining
+Request 211.255.17.112 complete
+Server 1 has 0 cycles remaining
+Request 230.191.238.147 complete
+Server 2 has 0 cycles remaining
+Request 168.41.201.106 complete
+Server 3 has 0 cycles remaining
+Request 37.222.28.252 complete
+Server 4 has 0 cycles remaining
+Request 69.202.224.3 complete
+Server 5 has 0 cycles remaining
+Request 40.105.44.236 complete
+Server 6 has 0 cycles remaining
+Request 54.246.159.63 complete
+Server 7 has 0 cycles remaining
+Request 190.69.89.197 complete
+Server 8 has 0 cycles remaining
+Request 233.33.184.141 complete
+Server 9 has 0 cycles remaining
+All servers busy, cannot scale down
+Load Balancer Name: P still has: 10
+Request 103.68.239.28 complete
+Server 0 has 0 cycles remaining
+Request 101.35.13.200 complete
+Server 1 has 0 cycles remaining
+Request 156.63.183.123 complete
+Server 2 has 0 cycles remaining
+Request 126.33.170.212 complete
+Server 3 has 0 cycles remaining
+Request 136.167.245.155 complete
+Server 4 has 0 cycles remaining
+Request 97.12.221.184 complete
+Server 5 has 0 cycles remaining
+Request 104.137.40.33 complete
+Server 6 has 0 cycles remaining
+Request 13.183.160.123 complete
+Server 7 has 0 cycles remaining
+Request 173.2.204.50 complete
+Server 8 has 0 cycles remaining
+Request 210.131.88.88 complete
+Server 9 has 0 cycles remaining
+
+
+ENTERING CYCLE:  2
+Load Balancer Name: S scaling from 10 to 9 servers
+Load Balancer Name: P scaling from 10 to 9 servers
+
+
+ENTERING CYCLE:  3
+Load Balancer Name: S still has: 9
+Request 229.254.254.221 complete
+Server 0 has 0 cycles remaining
+Request 40.16.161.77 complete
+Server 1 has 0 cycles remaining
+Request 143.179.174.121 complete
+Server 2 has 0 cycles remaining
+Request 63.179.23.115 complete
+Server 3 has 0 cycles remaining
+Request 159.51.214.229 complete
+Server 4 has 0 cycles remaining
+Request 196.202.69.195 complete
+Server 5 has 0 cycles remaining
+Request 164.206.127.71 complete
+Server 6 has 0 cycles remaining
+Request 89.17.7.230 complete
+Server 7 has 0 cycles remaining
+Request 31.253.93.186 complete
+Server 8 has 0 cycles remaining
+Load Balancer Name: P still has: 9
+Request 68.247.53.129 complete
+Server 0 has 0 cycles remaining
+Request 229.188.253.126 complete
+Server 1 has 0 cycles remaining
+Request 224.155.119.147 complete
+Server 2 has 0 cycles remaining
+Request 143.154.85.77 complete
+Server 3 has 0 cycles remaining
+Request 3.171.188.177 complete
+Server 4 has 0 cycles remaining
+Request 11.165.111.160 complete
+Server 5 has 0 cycles remaining
+Request 52.30.215.150 complete
+Server 6 has 0 cycles remaining
+Request 99.10.45.160 complete
+Server 7 has 0 cycles remaining
+Request 161.209.9.4 complete
+Server 8 has 0 cycles remaining
+
+
+ENTERING CYCLE:  4
+Load Balancer Name: S still has: 9
+Load Balancer Name: P still has: 9
+
+
+ENTERING CYCLE:  5
+All servers busy, cannot scale down
+Load Balancer Name: S still has: 9
+Request 12.250.172.181 complete
+Server 0 has 0 cycles remaining
+Request 172.89.155.196 complete
+Server 1 has 0 cycles remaining
+Request 67.237.19.251 complete
+Server 2 has 0 cycles remaining
+Request 124.81.21.193 complete
+Server 3 has 0 cycles remaining
+Request 59.28.80.243 complete
+Server 4 has 0 cycles remaining
+Request 142.194.181.54 complete
+Server 5 has 0 cycles remaining
+Request 232.147.106.118 complete
+Server 6 has 0 cycles remaining
+Request 197.138.188.145 complete
+Server 7 has 0 cycles remaining
+Request 102.241.63.9 complete
+Server 8 has 0 cycles remaining
+All servers busy, cannot scale down
+Load Balancer Name: P still has: 9
+Request 155.3.248.110 complete
+Server 0 has 0 cycles remaining
+Request 158.104.58.232 complete
+Server 1 has 0 cycles remaining
+Request 115.4.208.166 complete
+Server 2 has 0 cycles remaining
+Request 226.90.236.107 complete
+Server 3 has 0 cycles remaining
+Request 144.241.232.116 complete
+Server 4 has 0 cycles remaining
+Request 122.83.120.173 complete
+Server 5 has 0 cycles remaining
+Request 248.175.177.55 complete
+Server 6 has 0 cycles remaining
+Request 47.174.255.119 complete
+Server 7 has 0 cycles remaining
+Request 203.17.211.29 complete
+Server 8 has 0 cycles remaining
+
+
+ENTERING CYCLE:  6
+Load Balancer Name: S scaling from 9 to 8 servers
+Load Balancer Name: P scaling from 9 to 8 servers
+
+
+ENTERING CYCLE:  7
+Load Balancer Name: S still has: 8
+Request 231.211.133.35 complete
+Server 0 has 0 cycles remaining
+Request 141.110.37.228 complete
+Server 1 has 0 cycles remaining
+Request 247.175.57.248 complete
+Server 2 has 0 cycles remaining
+Request 204.228.58.245 complete
+Server 3 has 0 cycles remaining
+Request 167.158.222.126 complete
+Server 4 has 0 cycles remaining
+Request 241.127.205.103 complete
+Server 5 has 0 cycles remaining
+Request 123.175.11.249 complete
+Server 6 has 0 cycles remaining
+Request 130.248.128.210 complete
+Server 7 has 0 cycles remaining
+Load Balancer Name: P still has: 8
+Request 208.80.206.44 complete
+Server 0 has 0 cycles remaining
+Request 241.104.236.250 complete
+Server 1 has 0 cycles remaining
+Request 117.81.146.63 complete
+Server 2 has 0 cycles remaining
+Request 90.75.49.28 complete
+Server 3 has 0 cycles remaining
+Request 216.12.254.196 complete
+Server 4 has 0 cycles remaining
+Request 208.101.66.150 complete
+Server 5 has 0 cycles remaining
+Request 36.229.236.8 complete
+Server 6 has 0 cycles remaining
+Request 169.6.35.60 complete
+Server 7 has 0 cycles remaining
+
+
+ENTERING CYCLE:  8
+Load Balancer Name: S still has: 8
+Load Balancer Name: P still has: 8
+
+
+ENTERING CYCLE:  9
+All servers busy, cannot scale down
+Load Balancer Name: S still has: 8
+Request 82.23.42.130 complete
+Server 0 has 0 cycles remaining
+Request 139.247.1.237 complete
+Server 1 has 0 cycles remaining
+Request 69.12.238.44 complete
+Server 2 has 0 cycles remaining
+Request 217.51.124.65 complete
+Server 3 has 0 cycles remaining
+Request 6.195.20.83 complete
+Server 4 has 0 cycles remaining
+Request 151.202.87.171 complete
+Server 5 has 0 cycles remaining
+Request 228.156.220.54 complete
+Server 6 has 0 cycles remaining
+Request 44.186.38.206 complete
+Server 7 has 0 cycles remaining
+All servers busy, cannot scale down
+Load Balancer Name: P still has: 8
+Request 3.39.98.37 complete
+Server 0 has 0 cycles remaining
+Request 221.252.209.194 complete
+Server 1 has 0 cycles remaining
+Request 166.197.237.242 complete
+Server 2 has 0 cycles remaining
+Request 237.167.10.49 complete
+Server 3 has 0 cycles remaining
+Request 21.12.184.245 complete
+Server 4 has 0 cycles remaining
+Request 223.22.44.176 complete
+Server 5 has 0 cycles remaining
+Request 48.165.121.203 complete
+Server 6 has 0 cycles remaining
+Request 26.62.246.37 complete
+Server 7 has 0 cycles remaining
+
+
+ENTERING CYCLE:  10
+Load Balancer Name: S scaling from 8 to 7 servers
+Load Balancer Name: P scaling from 8 to 7 servers
+
+
+ENTERING CYCLE:  11
+Load Balancer Name: S still has: 7
+Request 83.6.150.134 complete
+Server 0 has 0 cycles remaining
+Request 73.76.178.36 complete
+Server 1 has 0 cycles remaining
+Request 71.100.110.171 complete
+Server 2 has 0 cycles remaining
+Request 199.238.132.13 complete
+Server 3 has 0 cycles remaining
+Request 231.104.27.117 complete
+Server 4 has 0 cycles remaining
+Request 174.154.185.160 complete
+Server 5 has 0 cycles remaining
+Request 178.145.102.198 complete
+Server 6 has 0 cycles remaining
+Load Balancer Name: P still has: 7
+Request 121.54.83.7 complete
+Server 0 has 0 cycles remaining
+Request 1.236.13.226 complete
+Server 1 has 0 cycles remaining
+Request 216.249.121.244 complete
+Server 2 has 0 cycles remaining
+Request 80.202.215.134 complete
+Server 3 has 0 cycles remaining
+Request 39.122.45.190 complete
+Server 4 has 0 cycles remaining
+Request 141.7.88.84 complete
+Server 5 has 0 cycles remaining
+Request 15.78.22.195 complete
+Server 6 has 0 cycles remaining
+
+
+ENTERING CYCLE:  12
+Load Balancer Name: S still has: 7
+Load Balancer Name: P still has: 7
+
+
+ENTERING CYCLE:  13
+Load Balancer Name: S still has: 7
+Request 41.118.61.113 complete
+Server 0 has 0 cycles remaining
+Request 29.252.25.94 complete
+Server 1 has 0 cycles remaining
+Request 246.9.31.125 complete
+Server 2 has 0 cycles remaining
+Request 121.162.191.184 complete
+Server 3 has 0 cycles remaining
+Request 231.206.220.93 complete
+Server 4 has 0 cycles remaining
+Request 198.93.84.85 complete
+Server 5 has 0 cycles remaining
+Request 227.147.22.82 complete
+Server 6 has 0 cycles remaining
+Load Balancer Name: P still has: 7
+Request 230.251.94.7 complete
+Server 0 has 0 cycles remaining
+Request 19.184.29.124 complete
+Server 1 has 0 cycles remaining
+Request 245.70.64.156 complete
+Server 2 has 0 cycles remaining
+Request 196.130.90.16 complete
+Server 3 has 0 cycles remaining
+Request 198.13.86.181 complete
+Server 4 has 0 cycles remaining
+Request 59.93.26.139 complete
+Server 5 has 0 cycles remaining
+Request 32.50.251.51 complete
+Server 6 has 0 cycles remaining
+
+
+ENTERING CYCLE:  14
+Load Balancer Name: S still has: 7
+Load Balancer Name: P still has: 7
+
+
+ENTERING CYCLE:  15
+All servers busy, cannot scale down
+Load Balancer Name: S still has: 7
+Request 5.236.127.164 complete
+Server 0 has 0 cycles remaining
+Request 114.111.149.68 complete
+Server 1 has 0 cycles remaining
+Request 75.31.247.160 complete
+Server 2 has 0 cycles remaining
+Request 169.148.28.76 complete
+Server 3 has 0 cycles remaining
+Request 167.219.59.207 complete
+Server 4 has 0 cycles remaining
+Request 126.131.20.41 complete
+Server 5 has 0 cycles remaining
+Request 57.170.189.226 complete
+Server 6 has 0 cycles remaining
+All servers busy, cannot scale down
+Load Balancer Name: P still has: 7
+Request 190.193.93.177 complete
+Server 0 has 0 cycles remaining
+Request 169.98.124.99 complete
+Server 1 has 0 cycles remaining
+Request 133.252.216.133 complete
+Server 2 has 0 cycles remaining
+Request 181.98.241.47 complete
+Server 3 has 0 cycles remaining
+Request 165.147.27.79 complete
+Server 4 has 0 cycles remaining
+Request 30.135.115.185 complete
+Server 5 has 0 cycles remaining
+Request 53.151.83.237 complete
+Server 6 has 0 cycles remaining
+
+
+ENTERING CYCLE:  16
+Load Balancer Name: S scaling from 7 to 6 servers
+Load Balancer Name: P scaling from 7 to 6 servers
+
+
+ENTERING CYCLE:  17
+Load Balancer Name: S still has: 6
+Request 233.32.225.231 complete
+Server 0 has 0 cycles remaining
+Request 147.95.14.144 complete
+Server 1 has 0 cycles remaining
+Request 44.118.194.171 complete
+Server 2 has 0 cycles remaining
+Request 201.19.218.50 complete
+Server 3 has 0 cycles remaining
+Request 152.40.102.118 complete
+Server 4 has 0 cycles remaining
+Request 75.240.68.171 complete
+Server 5 has 0 cycles remaining
+Load Balancer Name: P still has: 6
+Request 187.142.225.207 complete
+Server 0 has 0 cycles remaining
+Request 208.212.107.182 complete
+Server 1 has 0 cycles remaining
+Request 95.153.239.166 complete
+Server 2 has 0 cycles remaining
+Request 179.232.200.11 complete
+Server 3 has 0 cycles remaining
+Request 43.107.32.110 complete
+Server 4 has 0 cycles remaining
+Request 215.118.102.166 complete
+Server 5 has 0 cycles remaining
+
+
+ENTERING CYCLE:  18
+Load Balancer Name: S still has: 6
+Load Balancer Name: P still has: 6
+
+
+ENTERING CYCLE:  19
+Load Balancer Name: S still has: 6
+Request 231.72.78.167 complete
+Server 0 has 0 cycles remaining
+Request 248.43.153.214 complete
+Server 1 has 0 cycles remaining
+Request 53.198.37.201 complete
+Server 2 has 0 cycles remaining
+Request 10.170.44.63 complete
+Server 3 has 0 cycles remaining
+Request 240.87.107.24 complete
+Server 4 has 0 cycles remaining
+Request 172.216.115.254 complete
+Server 5 has 0 cycles remaining
+Load Balancer Name: P still has: 6
+Request 83.171.168.220 complete
+Server 0 has 0 cycles remaining
+Request 33.226.176.47 complete
+Server 1 has 0 cycles remaining
+Request 234.32.75.72 complete
+Server 2 has 0 cycles remaining
+Request 54.110.77.58 complete
+Server 3 has 0 cycles remaining
+Request 14.248.228.232 complete
+Server 4 has 0 cycles remaining
+Request 200.36.183.149 complete
+Server 5 has 0 cycles remaining
+
+
+ENTERING CYCLE:  20
+Load Balancer Name: S still has: 6
+Load Balancer Name: P still has: 6
+
+
+ENTERING CYCLE:  21
+All servers busy, cannot scale down
+Load Balancer Name: S still has: 6
+Request 146.3.231.89 complete
+Server 0 has 0 cycles remaining
+Request 60.42.96.81 complete
+Server 1 has 0 cycles remaining
+Request 188.233.110.242 complete
+Server 2 has 0 cycles remaining
+Request 2.142.151.230 complete
+Server 3 has 0 cycles remaining
+Request 132.112.239.208 complete
+Server 4 has 0 cycles remaining
+Request 227.17.235.27 complete
+Server 5 has 0 cycles remaining
+All servers busy, cannot scale down
+Load Balancer Name: P still has: 6
+Request 84.221.183.13 complete
+Server 0 has 0 cycles remaining
+Request 62.251.199.113 complete
+Server 1 has 0 cycles remaining
+Request 160.133.225.178 complete
+Server 2 has 0 cycles remaining
+Request 27.185.97.187 complete
+Server 3 has 0 cycles remaining
+Request 44.1.12.14 complete
+Server 4 has 0 cycles remaining
+Request 241.214.210.81 complete
+Server 5 has 0 cycles remaining
+
+
+ENTERING CYCLE:  22
+Load Balancer Name: S scaling from 6 to 5 servers
+Load Balancer Name: P scaling from 6 to 5 servers
+
+
+ENTERING CYCLE:  23
+Load Balancer Name: S still has: 5
+Request 199.212.213.185 complete
+Server 0 has 0 cycles remaining
+Request 187.217.148.136 complete
+Server 1 has 0 cycles remaining
+Request 15.129.22.107 complete
+Server 2 has 0 cycles remaining
+Request 112.157.216.64 complete
+Server 3 has 0 cycles remaining
+Request 34.141.43.88 complete
+Server 4 has 0 cycles remaining
+Load Balancer Name: P still has: 5
+Request 139.181.36.160 complete
+Server 0 has 0 cycles remaining
+Request 199.28.206.128 complete
+Server 1 has 0 cycles remaining
+Request 75.113.64.73 complete
+Server 2 has 0 cycles remaining
+Request 250.48.124.40 complete
+Server 3 has 0 cycles remaining
+Request 119.121.2.188 complete
+Server 4 has 0 cycles remaining
+
+
+ENTERING CYCLE:  24
+Load Balancer Name: S still has: 5
+Load Balancer Name: P still has: 5
+
+
+ENTERING CYCLE:  25
+Load Balancer Name: S still has: 5
+Request 70.180.174.233 complete
+Server 0 has 0 cycles remaining
+Request 99.10.92.9 complete
+Server 1 has 0 cycles remaining
+Request 95.198.119.171 complete
+Server 2 has 0 cycles remaining
+Request 171.254.168.2 complete
+Server 3 has 0 cycles remaining
+Request 140.73.86.130 complete
+Server 4 has 0 cycles remaining
+Load Balancer Name: P still has: 5
+Request 60.10.141.77 complete
+Server 0 has 0 cycles remaining
+Request 233.48.18.211 complete
+Server 1 has 0 cycles remaining
+Request 49.239.175.23 complete
+Server 2 has 0 cycles remaining
+Request 35.21.82.158 complete
+Server 3 has 0 cycles remaining
+Request 183.37.112.9 complete
+Server 4 has 0 cycles remaining
+
+
+ENTERING CYCLE:  26
+Load Balancer Name: S still has: 5
+Load Balancer Name: P still has: 5
+
+
+ENTERING CYCLE:  27
+Load Balancer Name: S still has: 5
+Request 250.141.43.98 complete
+Server 0 has 0 cycles remaining
+Request 226.179.8.37 complete
+Server 1 has 0 cycles remaining
+Request 32.133.7.52 complete
+Server 2 has 0 cycles remaining
+Request 142.7.125.113 complete
+Server 3 has 0 cycles remaining
+Request 97.81.93.97 complete
+Server 4 has 0 cycles remaining
+Load Balancer Name: P still has: 5
+Request 148.94.66.126 complete
+Server 0 has 0 cycles remaining
+Request 110.184.81.19 complete
+Server 1 has 0 cycles remaining
+Request 44.8.126.83 complete
+Server 2 has 0 cycles remaining
+Request 55.118.119.77 complete
+Server 3 has 0 cycles remaining
+Request 109.193.103.134 complete
+Server 4 has 0 cycles remaining
+
+
+ENTERING CYCLE:  28
+Load Balancer Name: S still has: 5
+Load Balancer Name: P still has: 5
+
+
+ENTERING CYCLE:  29
+All servers busy, cannot scale down
+Load Balancer Name: S still has: 5
+Request 62.221.35.236 complete
+Server 0 has 0 cycles remaining
+Request 58.4.162.16 complete
+Server 1 has 0 cycles remaining
+Request 199.108.98.230 complete
+Server 2 has 0 cycles remaining
+Request 177.236.117.140 complete
+Server 3 has 0 cycles remaining
+Request 147.118.220.9 complete
+Server 4 has 0 cycles remaining
+All servers busy, cannot scale down
+Load Balancer Name: P still has: 5
+Request 218.20.242.142 complete
+Server 0 has 0 cycles remaining
+Request 221.167.75.50 complete
+Server 1 has 0 cycles remaining
+Request 181.53.108.213 complete
+Server 2 has 0 cycles remaining
+Request 233.139.176.4 complete
+Server 3 has 0 cycles remaining
+Request 107.196.206.45 complete
+Server 4 has 0 cycles remaining
+
+
+ENTERING CYCLE:  30
+Load Balancer Name: S scaling from 5 to 4 servers
+Load Balancer Name: P scaling from 5 to 4 servers
+
+
+ENTERING CYCLE:  31
+Load Balancer Name: S still has: 4
+Request 109.175.29.220 complete
+Server 0 has 0 cycles remaining
+Request 222.44.32.30 complete
+Server 1 has 0 cycles remaining
+Request 130.168.15.31 complete
+Server 2 has 0 cycles remaining
+Request 51.137.49.95 complete
+Server 3 has 0 cycles remaining
+Load Balancer Name: P still has: 4
+Request 110.87.47.175 complete
+Server 0 has 0 cycles remaining
+Request 241.75.63.56 complete
+Server 1 has 0 cycles remaining
+Request 190.177.249.128 complete
+Server 2 has 0 cycles remaining
+Request 7.106.62.233 complete
+Server 3 has 0 cycles remaining
+
+
+ENTERING CYCLE:  32
+Load Balancer Name: S still has: 4
+Load Balancer Name: P still has: 4
+
+
+ENTERING CYCLE:  33
+Load Balancer Name: S still has: 4
+Request 17.134.114.166 complete
+Server 0 has 0 cycles remaining
+Request 167.123.69.76 complete
+Server 1 has 0 cycles remaining
+Request 247.105.74.85 complete
+Server 2 has 0 cycles remaining
+Request 154.130.117.170 complete
+Server 3 has 0 cycles remaining
+Load Balancer Name: P still has: 4
+Request 254.221.155.180 complete
+Server 0 has 0 cycles remaining
+Request 120.238.70.154 complete
+Server 1 has 0 cycles remaining
+Request 240.177.244.146 complete
+Server 2 has 0 cycles remaining
+Request 239.86.216.100 complete
+Server 3 has 0 cycles remaining
+
+
+ENTERING CYCLE:  34
+Load Balancer Name: S still has: 4
+Load Balancer Name: P still has: 4
+
+
+ENTERING CYCLE:  35
+Load Balancer Name: S still has: 4
+Request 161.69.236.165 complete
+Server 0 has 0 cycles remaining
+Request 47.141.95.217 complete
+Server 1 has 0 cycles remaining
+Request 0.149.141.79 complete
+Server 2 has 0 cycles remaining
+Request 24.211.197.216 complete
+Server 3 has 0 cycles remaining
+Load Balancer Name: P still has: 4
+Request 84.16.11.195 complete
+Server 0 has 0 cycles remaining
+Request 107.39.184.68 complete
+Server 1 has 0 cycles remaining
+Request 236.197.196.69 complete
+Server 2 has 0 cycles remaining
+Request 222.105.226.174 complete
+Server 3 has 0 cycles remaining
+
+
+ENTERING CYCLE:  36
+Load Balancer Name: S still has: 4
+Load Balancer Name: P still has: 4
+
+
+ENTERING CYCLE:  37
+Load Balancer Name: S still has: 4
+Request 97.74.4.33 complete
+Server 0 has 0 cycles remaining
+Request 101.225.80.196 complete
+Server 1 has 0 cycles remaining
+Request 223.239.185.167 complete
+Server 2 has 0 cycles remaining
+Request 85.96.216.41 complete
+Server 3 has 0 cycles remaining
+Load Balancer Name: P still has: 4
+Request 245.32.63.148 complete
+Server 0 has 0 cycles remaining
+Request 8.99.218.196 complete
+Server 1 has 0 cycles remaining
+Request 208.113.27.48 complete
+Server 2 has 0 cycles remaining
+Request 54.103.241.24 complete
+Server 3 has 0 cycles remaining
+
+
+ENTERING CYCLE:  38
+Load Balancer Name: S still has: 4
+Load Balancer Name: P still has: 4
+
+
+ENTERING CYCLE:  39
+All servers busy, cannot scale down
+Load Balancer Name: S still has: 4
+Request 38.131.205.255 complete
+Server 0 has 0 cycles remaining
+Request 192.182.151.31 complete
+Server 1 has 0 cycles remaining
+Request 181.253.78.250 complete
+Server 2 has 0 cycles remaining
+Request 76.170.94.215 complete
+Server 3 has 0 cycles remaining
+All servers busy, cannot scale down
+Load Balancer Name: P still has: 4
+Request 28.216.6.128 complete
+Server 0 has 0 cycles remaining
+Request 54.250.152.103 complete
+Server 1 has 0 cycles remaining
+Request 217.178.198.33 complete
+Server 2 has 0 cycles remaining
+Request 164.249.233.225 complete
+Server 3 has 0 cycles remaining
+
+
+ENTERING CYCLE:  40
+Load Balancer Name: S scaling from 4 to 3 servers
+Load Balancer Name: P scaling from 4 to 3 servers
+
+
+ENTERING CYCLE:  41
+Load Balancer Name: S still has: 3
+Request 222.206.232.78 complete
+Server 0 has 0 cycles remaining
+Request 139.255.2.231 complete
+Server 1 has 0 cycles remaining
+Request 17.100.97.131 complete
+Server 2 has 0 cycles remaining
+Load Balancer Name: P still has: 3
+Request 132.244.21.156 complete
+Server 0 has 0 cycles remaining
+Request 142.194.72.59 complete
+Server 1 has 0 cycles remaining
+Request 176.167.61.61 complete
+Server 2 has 0 cycles remaining
+
+
+ENTERING CYCLE:  42
+Load Balancer Name: S still has: 3
+Load Balancer Name: P still has: 3
+
+
+ENTERING CYCLE:  43
+Load Balancer Name: S still has: 3
+Request 90.187.51.88 complete
+Server 0 has 0 cycles remaining
+Request 104.84.43.8 complete
+Server 1 has 0 cycles remaining
+Request 160.29.161.36 complete
+Server 2 has 0 cycles remaining
+Load Balancer Name: P still has: 3
+Request 2.128.255.250 complete
+Server 0 has 0 cycles remaining
+Request 127.49.186.37 complete
+Server 1 has 0 cycles remaining
+Request 157.116.124.167 complete
+Server 2 has 0 cycles remaining
+
+
+ENTERING CYCLE:  44
+Load Balancer Name: S still has: 3
+Load Balancer Name: P still has: 3
+
+
+ENTERING CYCLE:  45
+Load Balancer Name: S still has: 3
+Request 107.75.81.50 complete
+Server 0 has 0 cycles remaining
+Request 171.59.191.224 complete
+Server 1 has 0 cycles remaining
+Request 95.15.200.15 complete
+Server 2 has 0 cycles remaining
+Load Balancer Name: P still has: 3
+Request 214.245.168.39 complete
+Server 0 has 0 cycles remaining
+Request 195.19.182.80 complete
+Server 1 has 0 cycles remaining
+Request 120.253.67.95 complete
+Server 2 has 0 cycles remaining
+
+
+ENTERING CYCLE:  46
+Load Balancer Name: S still has: 3
+Load Balancer Name: P still has: 3
+
+
+ENTERING CYCLE:  47
+Load Balancer Name: S still has: 3
+Request 220.62.156.72 complete
+Server 0 has 0 cycles remaining
+Request 34.75.84.248 complete
+Server 1 has 0 cycles remaining
+Request 77.189.128.156 complete
+Server 2 has 0 cycles remaining
+Load Balancer Name: P still has: 3
+Request 214.229.146.237 complete
+Server 0 has 0 cycles remaining
+Request 159.21.248.245 complete
+Server 1 has 0 cycles remaining
+Request 80.39.55.40 complete
+Server 2 has 0 cycles remaining
+
+
+ENTERING CYCLE:  48
+Load Balancer Name: S still has: 3
+Load Balancer Name: P still has: 3
+
+
+ENTERING CYCLE:  49
+Load Balancer Name: S still has: 3
+Request 217.0.239.171 complete
+Server 0 has 0 cycles remaining
+Request 101.105.31.31 complete
+Server 1 has 0 cycles remaining
+Request 132.129.2.16 complete
+Server 2 has 0 cycles remaining
+Load Balancer Name: P still has: 3
+Request 5.61.152.133 complete
+Server 0 has 0 cycles remaining
+Request 238.105.211.25 complete
+Server 1 has 0 cycles remaining
+Request 67.239.168.62 complete
+Server 2 has 0 cycles remaining
+
+
+ENTERING CYCLE:  50
+Load Balancer Name: S still has: 3
+Load Balancer Name: P still has: 3
+
+
+ENTERING CYCLE:  51
+All servers busy, cannot scale down
+Load Balancer Name: S still has: 3
+Request 3.160.86.189 complete
+Server 0 has 0 cycles remaining
+Request 191.176.252.192 complete
+Server 1 has 0 cycles remaining
+Request 72.9.115.251 complete
+Server 2 has 0 cycles remaining
+All servers busy, cannot scale down
+Load Balancer Name: P still has: 3
+Request 200.45.173.51 complete
+Server 0 has 0 cycles remaining
+Request 30.24.117.229 complete
+Server 1 has 0 cycles remaining
+Request 94.194.213.225 complete
+Server 2 has 0 cycles remaining
+
+
+ENTERING CYCLE:  52
+Load Balancer Name: S scaling from 3 to 2 servers
+Load Balancer Name: P scaling from 3 to 2 servers
+
+
+ENTERING CYCLE:  53
+Load Balancer Name: S still has: 2
+Request 70.11.217.37 complete
+Server 0 has 0 cycles remaining
+Request 63.107.193.22 complete
+Server 1 has 0 cycles remaining
+Load Balancer Name: P still has: 2
+Request 223.150.85.113 complete
+Server 0 has 0 cycles remaining
+Request 16.171.70.65 complete
+Server 1 has 0 cycles remaining
+
+
+ENTERING CYCLE:  54
+Load Balancer Name: S still has: 2
+Load Balancer Name: P still has: 2
+
+
+ENTERING CYCLE:  55
+Load Balancer Name: S still has: 2
+Request 46.136.221.118 complete
+Server 0 has 0 cycles remaining
+Request 236.192.195.89 complete
+Server 1 has 0 cycles remaining
+Load Balancer Name: P still has: 2
+Request 199.48.215.214 complete
+Server 0 has 0 cycles remaining
+Request 68.223.36.152 complete
+Server 1 has 0 cycles remaining
+
+
+ENTERING CYCLE:  56
+Load Balancer Name: S still has: 2
+Load Balancer Name: P still has: 2
+
+
+ENTERING CYCLE:  57
+Load Balancer Name: S still has: 2
+Request 231.148.223.1 complete
+Server 0 has 0 cycles remaining
+Request 128.27.127.58 complete
+Server 1 has 0 cycles remaining
+Load Balancer Name: P still has: 2
+Request 83.13.253.154 complete
+Server 0 has 0 cycles remaining
+Request 250.62.16.205 complete
+Server 1 has 0 cycles remaining
+
+
+ENTERING CYCLE:  58
+Load Balancer Name: S still has: 2
+Load Balancer Name: P still has: 2
+
+
+ENTERING CYCLE:  59
+Load Balancer Name: S still has: 2
+Request 7.63.252.211 complete
+Server 0 has 0 cycles remaining
+Request 219.223.41.244 complete
+Server 1 has 0 cycles remaining
+Load Balancer Name: P still has: 2
+Request 103.45.114.141 complete
+Server 0 has 0 cycles remaining
+Request 211.161.231.250 complete
+Server 1 has 0 cycles remaining
+
+
+ENTERING CYCLE:  60
+Load Balancer Name: S still has: 2
+Load Balancer Name: P still has: 2
+
+
+ENTERING CYCLE:  61
+Load Balancer Name: S still has: 2
+Request 158.30.72.219 complete
+Server 0 has 0 cycles remaining
+Request 113.29.255.69 complete
+Server 1 has 0 cycles remaining
+Load Balancer Name: P still has: 2
+Request 102.92.17.212 complete
+Server 0 has 0 cycles remaining
+Request 8.99.177.114 complete
+Server 1 has 0 cycles remaining
+
+
+ENTERING CYCLE:  62
+Load Balancer Name: S still has: 2
+Load Balancer Name: P still has: 2
+
+
+ENTERING CYCLE:  63
+Load Balancer Name: S still has: 2
+Request 27.16.229.255 complete
+Server 0 has 0 cycles remaining
+Request 63.43.11.219 complete
+Server 1 has 0 cycles remaining
+Load Balancer Name: P still has: 2
+Request 134.216.143.100 complete
+Server 0 has 0 cycles remaining
+Request 86.96.97.98 complete
+Server 1 has 0 cycles remaining
+
+
+ENTERING CYCLE:  64
+Load Balancer Name: S still has: 2
+Load Balancer Name: P still has: 2
+
+
+ENTERING CYCLE:  65
+Load Balancer Name: S still has: 2
+Request 102.128.17.28 complete
+Server 0 has 0 cycles remaining
+Request 103.55.98.223 complete
+Server 1 has 0 cycles remaining
+Load Balancer Name: P still has: 2
+Request 251.52.113.240 complete
+Server 0 has 0 cycles remaining
+Request 115.241.53.153 complete
+Server 1 has 0 cycles remaining
+
+
+ENTERING CYCLE:  66
+Load Balancer Name: S still has: 2
+Load Balancer Name: P still has: 2
+
+
+ENTERING CYCLE:  67
+Load Balancer Name: S still has: 2
+Request 118.44.183.88 complete
+Server 0 has 0 cycles remaining
+Request 248.12.154.240 complete
+Server 1 has 0 cycles remaining
+Load Balancer Name: P still has: 2
+Request 24.26.145.78 complete
+Server 0 has 0 cycles remaining
+Request 124.29.231.25 complete
+Server 1 has 0 cycles remaining
+
+
+ENTERING CYCLE:  68
+Load Balancer Name: S still has: 2
+Load Balancer Name: P still has: 2
+
+
+ENTERING CYCLE:  69
+Load Balancer Name: S still has: 2
+Request 1.112.51.24 complete
+Server 0 has 0 cycles remaining
+Request 107.13.235.107 complete
+Server 1 has 0 cycles remaining
+Load Balancer Name: P still has: 2
+Request 168.192.38.249 complete
+Server 0 has 0 cycles remaining
+Request 170.230.104.36 complete
+Server 1 has 0 cycles remaining
+
+
+ENTERING CYCLE:  70
+Load Balancer Name: S still has: 2
+Load Balancer Name: P still has: 2
+
+
+ENTERING CYCLE:  71
+All servers busy, cannot scale down
+Load Balancer Name: S still has: 2
+Request 166.252.87.84 complete
+Server 0 has 0 cycles remaining
+Request 243.145.47.127 complete
+Server 1 has 0 cycles remaining
+All servers busy, cannot scale down
+Load Balancer Name: P still has: 2
+Request 193.203.138.11 complete
+Server 0 has 0 cycles remaining
+Request 190.90.205.59 complete
+Server 1 has 0 cycles remaining
+
+
+ENTERING CYCLE:  72
+Load Balancer Name: S scaling from 2 to 1 servers
+Load Balancer Name: P scaling from 2 to 1 servers
+
+
+ENTERING CYCLE:  73
+Load Balancer Name: S still has: 1
+Request 1.32.49.46 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 194.58.34.88 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  74
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  75
+Load Balancer Name: S still has: 1
+Request 231.64.170.158 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 55.26.161.171 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  76
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  77
+Load Balancer Name: S still has: 1
+Request 79.169.90.70 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 38.194.243.118 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  78
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  79
+Load Balancer Name: S still has: 1
+Request 249.19.86.206 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 85.147.185.124 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  80
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  81
+Load Balancer Name: S still has: 1
+Request 251.48.82.182 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 137.41.131.23 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  82
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  83
+Load Balancer Name: S still has: 1
+Request 47.222.172.246 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 152.255.198.170 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  84
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  85
+Load Balancer Name: S still has: 1
+Request 206.94.53.76 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 36.237.223.177 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  86
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  87
+Load Balancer Name: S still has: 1
+Request 49.116.220.229 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 94.160.151.125 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  88
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  89
+Load Balancer Name: S still has: 1
+Request 90.224.62.60 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 226.96.47.255 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  90
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  91
+Load Balancer Name: S still has: 1
+Request 164.40.137.160 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 221.51.247.185 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  92
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  93
+Load Balancer Name: S still has: 1
+Request 250.121.206.167 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 98.13.223.114 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  94
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  95
+Load Balancer Name: S still has: 1
+Request 156.223.30.123 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 249.242.8.239 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  96
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  97
+Load Balancer Name: S still has: 1
+Request 155.145.168.26 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 95.239.169.219 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  98
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  99
+Load Balancer Name: S still has: 1
+Request 90.40.188.182 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 190.141.156.122 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  100
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  101
+Load Balancer Name: S still has: 1
+Request 138.248.103.245 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 133.220.141.52 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  102
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  103
+Load Balancer Name: S still has: 1
+Request 64.103.73.163 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 131.43.49.207 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  104
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  105
+Load Balancer Name: S still has: 1
+Request 66.46.149.76 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 47.215.177.177 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  106
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  107
+Load Balancer Name: S still has: 1
+Request 153.0.170.10 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 211.221.106.108 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  108
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  109
+Load Balancer Name: S still has: 1
+Request 195.126.206.204 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 60.171.238.44 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  110
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  111
+Load Balancer Name: S still has: 1
+Request 188.187.242.100 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 9.198.240.173 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  112
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  113
+Load Balancer Name: S still has: 1
+Request 85.144.178.228 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 235.241.173.165 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  114
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  115
+Load Balancer Name: S still has: 1
+Request 117.78.254.15 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 136.236.149.212 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  116
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  117
+Load Balancer Name: S still has: 1
+Request 190.181.230.51 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 108.154.138.169 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  118
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  119
+Load Balancer Name: S still has: 1
+Request 247.109.56.94 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 134.197.84.49 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  120
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  121
+Load Balancer Name: S still has: 1
+Request 86.130.155.40 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 35.207.200.74 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  122
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  123
+Load Balancer Name: S still has: 1
+Request 255.152.39.182 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 72.91.242.201 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  124
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  125
+Load Balancer Name: S still has: 1
+Request 181.215.53.239 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 201.59.74.247 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  126
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  127
+Load Balancer Name: S still has: 1
+Request 153.173.5.69 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 215.174.109.104 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  128
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  129
+Load Balancer Name: S still has: 1
+Request 188.138.167.17 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 192.151.175.105 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  130
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  131
+Load Balancer Name: S still has: 1
+Request 236.81.100.185 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 44.246.163.56 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  132
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  133
+Load Balancer Name: S still has: 1
+Request 0.145.160.0 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 199.132.216.207 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  134
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  135
+Load Balancer Name: S still has: 1
+Request 33.49.85.97 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 186.78.2.59 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  136
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  137
+Load Balancer Name: S still has: 1
+Request 172.243.223.25 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 237.189.90.133 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  138
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  139
+Load Balancer Name: S still has: 1
+Request 81.31.148.102 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 177.38.130.100 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  140
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  141
+Load Balancer Name: S still has: 1
+Request 131.25.88.194 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 228.227.210.83 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  142
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  143
+Load Balancer Name: S still has: 1
+Request 162.128.243.224 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 236.48.118.113 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  144
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  145
+Load Balancer Name: S still has: 1
+Request 72.93.242.190 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 28.72.79.153 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  146
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  147
+Load Balancer Name: S still has: 1
+Request 95.157.84.42 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 24.23.195.212 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  148
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  149
+Load Balancer Name: S still has: 1
+Request 194.212.54.100 complete
+Server 0 has 0 cycles remaining
+Load Balancer Name: P still has: 1
+Request 157.64.2.63 complete
+Server 0 has 0 cycles remaining
+
+
+ENTERING CYCLE:  150
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  151
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  152
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  153
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  154
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  155
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  156
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  157
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  158
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  159
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  160
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  161
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  162
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  163
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  164
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  165
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  166
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  167
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  168
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  169
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  170
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  171
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  172
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  173
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  174
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  175
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  176
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  177
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  178
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  179
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  180
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  181
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  182
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  183
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  184
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  185
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  186
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  187
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  188
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  189
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  190
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  191
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  192
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  193
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  194
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  195
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  196
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  197
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  198
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  199
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  200
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  201
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  202
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  203
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  204
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  205
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  206
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  207
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  208
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  209
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  210
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  211
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  212
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  213
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  214
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  215
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  216
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  217
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  218
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  219
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  220
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  221
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  222
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  223
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  224
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  225
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  226
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  227
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  228
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  229
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  230
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  231
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  232
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  233
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  234
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  235
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  236
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  237
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  238
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  239
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  240
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  241
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  242
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  243
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  244
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  245
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  246
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  247
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  248
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  249
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  250
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  251
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  252
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  253
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  254
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  255
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  256
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  257
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  258
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  259
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  260
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  261
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  262
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  263
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  264
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  265
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  266
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  267
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  268
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  269
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  270
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  271
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  272
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  273
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  274
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  275
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  276
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  277
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  278
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  279
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  280
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  281
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  282
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  283
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  284
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  285
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  286
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  287
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  288
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  289
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  290
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  291
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  292
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  293
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  294
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  295
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  296
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  297
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  298
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  299
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  300
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  301
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  302
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  303
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  304
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  305
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  306
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  307
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  308
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  309
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  310
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  311
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  312
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  313
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  314
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  315
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  316
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  317
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  318
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  319
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  320
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  321
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  322
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  323
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  324
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  325
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  326
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  327
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  328
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  329
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  330
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  331
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  332
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  333
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  334
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  335
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  336
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  337
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  338
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  339
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  340
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  341
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  342
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  343
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  344
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  345
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  346
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  347
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  348
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  349
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  350
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  351
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  352
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  353
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  354
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  355
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  356
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  357
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  358
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  359
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  360
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  361
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  362
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  363
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  364
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  365
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  366
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  367
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  368
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  369
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  370
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  371
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  372
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  373
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  374
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  375
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  376
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  377
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  378
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  379
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  380
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  381
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  382
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  383
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  384
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  385
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  386
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  387
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  388
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  389
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  390
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  391
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  392
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  393
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  394
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  395
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  396
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  397
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  398
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  399
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  400
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  401
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  402
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  403
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  404
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  405
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  406
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  407
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  408
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  409
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  410
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  411
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  412
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  413
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  414
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  415
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  416
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  417
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  418
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  419
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  420
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  421
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  422
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  423
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  424
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  425
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  426
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  427
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  428
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  429
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  430
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  431
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  432
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  433
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  434
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  435
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  436
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  437
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  438
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  439
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  440
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  441
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  442
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  443
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  444
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  445
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  446
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  447
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  448
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  449
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  450
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  451
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  452
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  453
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  454
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  455
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  456
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  457
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  458
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  459
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  460
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  461
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  462
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  463
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  464
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  465
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  466
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  467
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  468
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  469
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  470
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  471
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  472
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  473
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  474
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  475
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  476
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  477
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  478
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  479
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  480
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  481
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  482
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  483
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  484
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  485
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  486
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  487
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  488
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  489
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  490
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  491
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  492
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  493
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  494
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  495
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  496
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  497
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  498
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  499
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  500
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  501
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  502
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  503
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  504
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  505
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  506
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  507
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  508
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  509
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  510
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  511
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  512
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  513
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  514
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  515
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  516
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  517
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  518
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  519
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  520
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  521
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  522
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  523
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  524
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  525
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  526
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  527
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  528
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  529
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  530
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  531
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  532
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  533
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  534
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  535
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  536
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  537
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  538
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  539
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  540
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  541
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  542
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  543
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  544
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  545
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  546
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  547
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  548
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  549
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  550
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  551
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  552
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  553
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  554
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  555
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  556
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  557
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  558
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  559
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  560
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  561
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  562
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  563
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  564
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  565
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  566
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  567
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  568
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  569
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  570
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  571
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  572
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  573
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  574
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  575
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  576
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  577
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  578
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  579
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  580
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  581
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  582
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  583
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  584
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  585
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  586
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  587
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  588
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  589
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  590
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  591
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  592
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  593
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  594
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  595
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  596
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  597
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  598
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  599
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  600
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  601
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  602
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  603
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  604
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  605
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  606
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  607
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  608
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  609
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  610
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  611
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  612
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  613
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  614
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  615
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  616
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  617
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  618
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  619
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  620
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  621
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  622
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  623
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  624
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  625
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  626
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  627
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  628
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  629
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  630
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  631
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  632
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  633
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  634
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  635
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  636
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  637
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  638
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  639
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  640
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  641
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  642
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  643
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  644
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  645
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  646
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  647
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  648
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  649
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  650
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  651
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  652
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  653
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  654
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  655
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  656
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  657
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  658
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  659
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  660
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  661
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  662
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  663
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  664
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  665
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  666
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  667
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  668
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  669
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  670
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  671
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  672
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  673
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  674
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  675
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  676
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  677
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  678
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  679
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  680
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  681
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  682
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  683
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  684
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  685
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  686
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  687
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  688
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  689
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  690
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  691
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  692
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  693
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  694
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  695
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  696
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  697
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  698
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  699
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  700
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  701
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  702
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  703
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  704
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  705
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  706
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  707
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  708
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  709
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  710
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  711
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  712
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  713
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  714
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  715
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  716
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  717
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  718
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  719
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  720
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  721
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  722
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  723
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  724
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  725
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  726
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  727
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  728
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  729
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  730
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  731
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  732
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  733
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  734
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  735
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  736
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  737
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  738
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  739
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  740
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  741
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  742
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  743
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  744
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  745
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  746
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  747
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  748
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  749
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  750
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  751
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  752
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  753
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  754
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  755
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  756
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  757
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  758
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  759
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  760
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  761
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  762
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  763
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  764
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  765
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  766
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  767
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  768
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  769
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  770
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  771
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  772
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  773
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  774
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  775
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  776
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  777
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  778
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  779
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  780
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  781
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  782
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  783
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  784
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  785
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  786
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  787
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  788
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  789
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  790
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  791
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  792
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  793
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  794
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  795
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  796
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  797
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  798
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  799
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  800
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  801
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  802
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  803
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  804
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  805
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  806
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  807
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  808
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  809
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  810
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  811
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  812
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  813
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  814
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  815
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  816
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  817
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  818
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  819
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  820
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  821
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  822
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  823
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  824
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  825
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  826
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  827
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  828
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  829
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  830
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  831
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  832
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  833
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  834
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  835
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  836
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  837
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  838
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  839
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  840
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  841
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  842
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  843
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  844
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  845
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  846
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  847
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  848
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  849
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  850
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  851
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  852
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  853
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  854
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  855
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  856
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  857
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  858
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  859
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  860
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  861
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  862
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  863
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  864
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  865
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  866
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  867
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  868
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  869
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  870
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  871
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  872
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  873
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  874
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  875
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  876
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  877
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  878
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  879
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  880
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  881
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  882
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  883
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  884
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  885
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  886
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  887
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  888
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  889
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  890
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  891
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  892
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  893
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  894
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  895
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  896
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  897
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  898
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  899
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  900
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  901
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  902
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  903
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  904
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  905
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  906
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  907
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  908
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  909
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  910
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  911
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  912
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  913
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  914
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  915
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  916
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  917
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  918
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  919
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  920
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  921
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  922
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  923
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  924
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  925
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  926
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  927
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  928
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  929
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  930
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  931
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  932
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  933
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  934
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  935
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  936
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  937
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  938
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  939
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  940
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  941
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  942
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  943
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  944
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  945
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  946
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  947
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  948
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  949
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  950
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  951
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  952
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  953
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  954
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  955
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  956
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  957
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  958
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  959
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  960
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  961
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  962
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  963
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  964
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  965
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  966
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  967
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  968
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  969
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  970
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  971
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  972
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  973
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  974
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  975
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  976
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  977
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  978
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  979
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  980
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  981
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  982
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  983
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  984
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  985
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  986
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  987
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  988
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  989
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  990
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  991
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  992
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  993
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  994
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  995
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  996
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  997
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  998
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
+
+ENTERING CYCLE:  999
+Load Balancer Name: S still has: 1
+Load Balancer Name: P still has: 1
+
