@@ -13,6 +13,7 @@
 int main() {
     int initial_servers = 0;
     int num_cycles = 0;
+    int request_density = 0;
     std::string input;
     srand(static_cast<unsigned int>(time(NULL)));
 
@@ -27,6 +28,10 @@ int main() {
     std::cout << "Enter number of clock cycles: ";
     std::getline(std::cin, input);
     std::stringstream(input) >> num_cycles;
+
+    std::cout << "Enter average request density: ";
+    std::getline(std::cin, input);
+    std::stringstream(input) >> request_density;
 
     std::cout << "Simulation started with " << initial_servers << " servers and " << num_cycles << " clock cycles.\n";
     RequestGenerator rg;
@@ -52,13 +57,15 @@ int main() {
      */
     for (int i = 0; i < num_cycles; i++) {
         std::cout << std::endl << "ENTERING CYCLE:  " << i << std::endl;
-        if(rand() % 2 == 0){
-            Request r = rg.generateRequestS();
-            lbS.push(r);
-        }
-        if(rand() % 2 == 0){
-            Request r = rg.generateRequestP();
-            lbP.push(r);
+        for (int j = 0; j < request_density; j++) {
+            if(rand() % 2 == 0){
+                Request r = rg.generateRequestS();
+                lbS.push(r);
+            }
+            if(rand() % 2 == 0){
+                Request r = rg.generateRequestP();
+                lbP.push(r);
+            }
         }
         
         lbS.LoadBalanceTick();
