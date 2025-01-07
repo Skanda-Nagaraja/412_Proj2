@@ -83,6 +83,9 @@ void LoadBalancer::scale() {
  *  scaling and identifies  Requests for available WebServers.
  */
 void LoadBalancer::LoadBalanceTick() {
+    //print load balancer name as well as starting queue size
+
+    cout << "For Load balancer, " << name << " starting queue size: " << q.size() << endl;
     scale();
     for (int i = 0; i < servers.size(); i++) {
         if (!q.empty() && servers[i].isFree()) {
@@ -94,5 +97,6 @@ void LoadBalancer::LoadBalanceTick() {
             cout << "Server " << i << " has " << timeRemaining << " cycles remaining" << endl;
         }
     }
+    cout << "For Load balancer, " << name << " ending queue size: " << q.size() << endl;
     iterCount++;
 }
