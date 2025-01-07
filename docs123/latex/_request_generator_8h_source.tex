@@ -1,0 +1,39 @@
+\doxysection{Request\+Generator.\+h}
+\hypertarget{_request_generator_8h_source}{}\label{_request_generator_8h_source}\mbox{\hyperlink{_request_generator_8h}{Go to the documentation of this file.}}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{00001\ }
+\DoxyCodeLine{00005\ }
+\DoxyCodeLine{00006\ \textcolor{preprocessor}{\#pragma\ once}}
+\DoxyCodeLine{00007\ }
+\DoxyCodeLine{00008\ \textcolor{preprocessor}{\#include\ <iostream>}}
+\DoxyCodeLine{00009\ \textcolor{preprocessor}{\#include\ <string>}}
+\DoxyCodeLine{00010\ \textcolor{preprocessor}{\#include\ <vector>}}
+\DoxyCodeLine{00011\ \textcolor{keyword}{using\ namespace\ }std;}
+\DoxyCodeLine{00012\ }
+\DoxyCodeLine{00013\ \textcolor{preprocessor}{\#ifndef\ REQUESTGENERATOR\_H}}
+\DoxyCodeLine{00014\ \textcolor{preprocessor}{\#define\ REQUESTGENERATOR\_H}}
+\DoxyCodeLine{00015\ }
+\DoxyCodeLine{00016\ }
+\DoxyCodeLine{00017\ \textcolor{preprocessor}{\ \ \ \ \#define\ S\ true}}
+\DoxyCodeLine{00018\ \textcolor{preprocessor}{\ \ \ \ \#define\ P\ false}\textcolor{preprocessor}{}}
+\DoxyCodeLine{00023\ \ \ \ \ \textcolor{keyword}{struct\ }\mbox{\hyperlink{struct_request}{Request}}\ \{\ \ \ \ \ \ \ \ \ \ \ \ \textcolor{comment}{//define\ a\ queue\ }}
+\DoxyCodeLine{00024\ \ \ \ \ \ \ \ \ \ \ \ \ std::string\ ipIn;}
+\DoxyCodeLine{00025\ \ \ \ \ \ \ \ \ \ \ \ \ std::string\ ipOut;}
+\DoxyCodeLine{00026\ \ \ \ \ \ \ \ \ \ \ \ \ \textcolor{keywordtype}{int}\ time;}
+\DoxyCodeLine{00027\ \ \ \ \ \ \ \ \ \ \ \ \ \textcolor{keywordtype}{bool}\ type;}
+\DoxyCodeLine{00028\ \ \ \ \ \};}
+\DoxyCodeLine{00029\ }
+\DoxyCodeLine{00034\ \ \ \ \ \textcolor{keyword}{class\ }\mbox{\hyperlink{class_request_generator_afaed3ddb41016607c73a8497d47a5eb8}{RequestGenerator}}\ \{}
+\DoxyCodeLine{00035\ \ \ \ \ \ \ \ \ \textcolor{keyword}{public}:}
+\DoxyCodeLine{00036\ \ \ \ \ \ \ \ \ \ \ \ \ \mbox{\hyperlink{class_request_generator_afaed3ddb41016607c73a8497d47a5eb8}{RequestGenerator}}();}
+\DoxyCodeLine{00037\ \ \ \ \ \ \ \ \ \ \ \ \ \mbox{\hyperlink{struct_request}{Request}}\ \mbox{\hyperlink{class_request_generator_a55b2fc85f6ccea5cf1df2c686d4400df}{generateRequest}}();}
+\DoxyCodeLine{00038\ \ \ \ \ \ \ \ \ \ \ \ \ \mbox{\hyperlink{struct_request}{Request}}\ \mbox{\hyperlink{class_request_generator_a6d72216ea373ac03c46cc1f79cde1ca3}{generateRequestS}}();}
+\DoxyCodeLine{00039\ \ \ \ \ \ \ \ \ \ \ \ \ \mbox{\hyperlink{struct_request}{Request}}\ \mbox{\hyperlink{class_request_generator_ae57bc4b8d42d769a5c134fa28e33dd3d}{generateRequestP}}();}
+\DoxyCodeLine{00040\ \ \ \ \ \ \ \ \ \textcolor{keyword}{private}:}
+\DoxyCodeLine{00041\ \ \ \ \ \ \ \ \ \ \ \ \ \textcolor{keywordtype}{string}\ genIp();}
+\DoxyCodeLine{00042\ \ \ \ \ \};}
+\DoxyCodeLine{00043\ }
+\DoxyCodeLine{00044\ }
+\DoxyCodeLine{00045\ \textcolor{preprocessor}{\#endif\ }\textcolor{comment}{//\ REQUESTGENERATOR\_H}}
+
+\end{DoxyCode}
